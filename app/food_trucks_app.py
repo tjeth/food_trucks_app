@@ -1,21 +1,26 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, send_file, request
 import requests
 import threading
 import json
 import time
 from werkzeug.contrib.cache import SimpleCache
+from math import radians, cos, sin, asin, sqrt
 
 app = Flask(__name__)
 
+# Google Maps API
 API_KEY = 'AIzaSyCFPJGIIcbIUmbIitqx2chf5pqdYHGTqsI'
-no_latlong_cache = SimpleCache() #Key: item address, Value: location item
+# Key: item address, Value: location item
+no_latlong_cache = SimpleCache() 
+# Background thread for refreshing locations
+refresh_thread = threading.Thread()
 
-def refresh_cache():
+def refresh_locations():
   print "Refreshing cache"
 
   # Run once per day
-  t = threading.Timer(86400.0, refresh_cache)
-  #t = threading.Timer(10.0, refresh_cache)
+  t = threading.Timer(86400.0, refresh_locations)
+  # = threading.Timer(10.0, refresh_locations)
   
   # Allows you to interrupt program cleanly
   t.daemon = True      
@@ -96,13 +101,75 @@ def geocode_no_latlong_locations(locations, no_latlong):
   print len(locations) 
 
 
-# Start the timer loop that runs every 24 hours
-refresh_cache()
+def execute_refresh_locations():
+  global refresh_thread
+  # Start the timer loop that runs every 24 hours
+  refresh_thread = threading.Thread(target=refresh_locations).start()
+
+
+# Execute refreshing locations in a separate thread 
+#execute_refresh_locations()
+
+
+# Haversine formula for calculating distance b/w two points on sphere
+# Source: http://stackoverflow.com/a/4913653
+def haversine(lon1, lat1, lon2, lat2):
+  """
+  Calculate the great circle distance between two points 
+  on the earth (specified in decimal degrees)
+  """
+  # convert decimal degrees to radians 
+  lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
+
+  # haversine formula 
+  dlon = lon2 - lon1 
+  dlat = lat2 - lat1 
+  a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
+  c = 2 * asin(sqrt(a)) 
+
+  # 6367 km is the radius of the Earth
+  km = 6367 * c
+  return km 
 
 
 @app.route("/")
-def hello():
+def index():
   return render_template('index.html')
+
+
+@app.route("/food_truck_locations")
+def food_truck_locations():
+  print "HELLO WORLD"
+  return send_file('food_truck_data.json')
+
+
+@app.route("/hello")
+def hello():
+  # TODO: Turn this into modular code (same code as above)
+  addr = request.args.get("address")
+  payload = {'address': addr, 'key': API_KEY}
+  resp = requests.get('https://maps.googleapis.com/maps/api/geocode/json', params=payload).content
+  resp_data = json.loads(resp)
+  geo_loc = resp_data['results'][0]['geometry']['location']
+
+  lat1 = float(geo_loc['lat'])
+  lng1 = float(geo_loc['lng'])
+
+  within_mile = []
+  json_data = open('food_truck_data.json')
+  data = json.load(json_data)
+  for location in data:
+    lat2 = float(location['lat'])
+    lng2 = float(location['lng'])
+    haversine_distance = haversine(lng1, lat1, lng2, lat2)
+
+    if (haversine_distance < 1.60934): # Less than one mile away
+      within_mile.append(location)
+      
+  json_data.close()
+
+  print len(within_mile)
+  return json.dumps(within_mile)
 
 if __name__ == "__main__":
   app.run(debug=True)

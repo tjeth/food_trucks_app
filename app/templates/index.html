@@ -1,6 +1,26 @@
-<html>
+<!doctype html>
+<script type="text/javascript"
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFPJGIIcbIUmbIitqx2chf5pqdYHGTqsI&sensor=false">
+</script>
+
+<script src="{{ url_for('static', filename='jquery-2.1.1.min.js') }}"></script>
+<script src="{{ url_for('static', filename='underscore-min.js') }}"></script>
+<script src="{{ url_for('static', filename='backbone.js') }}"></script>
+<script src="{{ url_for('static', filename='backbone.googlemaps.js') }}"></script>
+<script src="{{ url_for('static', filename='food_trucks.js') }}"></script>
+
+<link rel=stylesheet href="{{ url_for('static', filename='food_trucks.css') }}">
+
+
+<body>
   <title>Food Trucks Locator</title>
-  <div>
+  <div id="hello">
     <h1>Food trucks!</h1>
+    <form name="input" action="/hello" method="get">
+    Search Address: <input type="text" name="address">
+    <input type="submit" value="Submit">
+    </form>
   </div>
-</html>
+
+  <div id="map-canvas"></div>
+</body>
