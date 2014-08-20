@@ -16,7 +16,6 @@ Werkzeug==0.9.4
 alembic==0.6.5
 altgraph==0.9
 bdist-mpkg==0.4.4
-bonjour-py==0.3
 cssselect==0.9.1
 httplib2==0.8
 itsdangerous==0.24
