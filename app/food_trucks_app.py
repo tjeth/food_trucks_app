@@ -1,4 +1,4 @@
-from flask import Flask, render_template, send_file, request
+from flask import Flask, render_template, send_file, request, jsonify
 import requests
 import threading
 import json
@@ -45,10 +45,16 @@ def refresh_locations():
 # Build locations list with relevant data for views
 # Add to a list for geocoding if does not have latlong
 def build_locations_lists(data, locations, no_latlong):
+  id_count = 1
+
   for x in range(0, len(data)):
+
+    print id_count
+
     item = data[x]
     if (item['status'] == 'APPROVED'):
       if ('location' not in item and 'address' in item):
+        item['id'] = id_count
         no_latlong.append(item)
       elif ('location' in item and 'address' in item): 
         # Found with location and address
@@ -56,16 +62,19 @@ def build_locations_lists(data, locations, no_latlong):
             'lng' : item['location']['longitude'], \
             'applicant' : item['applicant'], \
             'address' : item['address'], \
-            'fooditems' : item['fooditems'] })
+            'fooditems' : item['fooditems'],
+            'id' : id_count })
       elif ('location' in item and 'address' not in item): 
         # Has latlong but no address
         locations.append({ 'lat' : item['location']['latitude'], \
             'lng' : item['location']['longitude'], \
             'applicant' : item['applicant'], \
             'address' : 'No Address', \
-            'fooditems' : item['fooditems'] })
+            'fooditems' : item['fooditems'],
+            'id' : id_count })
       else:
         print 'Truck does not have latlong or address!\n{}'.format(str(item))
+      id_count += 1
 
   print len(locations)
   print len(no_latlong)
@@ -79,9 +88,8 @@ def geocode_no_latlong_locations(locations, no_latlong):
     item = no_latlong[x]
     cache_key = item['address']
     cache_item = no_latlong_cache.get(cache_key)
-    print cache_item
+
     if (cache_item):
-      print "HELLO WORLD"
       locations.append(cache_item)
     else:
       addr = item['address'] + ', San Francisco'
@@ -94,7 +102,8 @@ def geocode_no_latlong_locations(locations, no_latlong):
           'lng' : geo_loc['lng'],\
           'applicant' : item['applicant'],\
           'address' : item['address'],\
-          'fooditems' : item['fooditems'] }
+          'fooditems' : item['fooditems'],
+          'id' : item['id']}
       locations.append(location_item)
       no_latlong_cache.set(cache_key, location_item, timeout=30*24*60) #30 day timeout
 
@@ -108,7 +117,7 @@ def execute_refresh_locations():
 
 
 # Execute refreshing locations in a separate thread 
-#execute_refresh_locations()
+execute_refresh_locations()
 
 
 # Haversine formula for calculating distance b/w two points on sphere
@@ -139,37 +148,42 @@ def index():
 
 @app.route("/food_truck_locations")
 def food_truck_locations():
-  print "HELLO WORLD"
   return send_file('food_truck_data.json')
 
 
-@app.route("/hello")
-def hello():
+@app.route("/address_search")
+def address_search():
   # TODO: Turn this into modular code (same code as above)
   addr = request.args.get("address")
   payload = {'address': addr, 'key': API_KEY}
   resp = requests.get('https://maps.googleapis.com/maps/api/geocode/json', params=payload).content
   resp_data = json.loads(resp)
-  geo_loc = resp_data['results'][0]['geometry']['location']
 
-  lat1 = float(geo_loc['lat'])
-  lng1 = float(geo_loc['lng'])
+  if len(resp_data['results']) != 0:
+    geo_loc = resp_data['results'][0]['geometry']['location']
 
-  within_mile = []
-  json_data = open('food_truck_data.json')
-  data = json.load(json_data)
-  for location in data:
-    lat2 = float(location['lat'])
-    lng2 = float(location['lng'])
-    haversine_distance = haversine(lng1, lat1, lng2, lat2)
+    lat1 = float(geo_loc['lat'])
+    lng1 = float(geo_loc['lng'])
 
-    if (haversine_distance < 1.60934): # Less than one mile away
-      within_mile.append(location)
-      
-  json_data.close()
+    search_latlong = {'lat': lat1, 'lng': lng1}
 
-  print len(within_mile)
-  return json.dumps(within_mile)
+    within_mile = []
+    json_data = open('food_truck_data.json')
+    data = json.load(json_data)
+    for location in data:
+      lat2 = float(location['lat'])
+      lng2 = float(location['lng'])
+      haversine_distance = haversine(lng1, lat1, lng2, lat2)
+
+      if (haversine_distance < 1.0): # Less than one kilometer away
+        within_mile.append(location)
+
+    json_data.close()
+
+    print len(within_mile)
+    return jsonify(search_address=search_latlong, results=within_mile)
+
+  return "No address search results"
 
 if __name__ == "__main__":
   app.run(debug=True)

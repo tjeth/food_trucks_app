@@ -1,8 +1,18 @@
-#hello {
-  color: green;
+
+section {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
 }
 
-#map-canvas { 
-  height: 1000px;
-  width: 1000px;
+div#map-canvas {
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+div#backgrid_table {
+    margin-left: 50%;
+    height: 500px;
+    overflow: auto;
 }
