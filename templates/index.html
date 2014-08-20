@@ -3,19 +3,20 @@
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFPJGIIcbIUmbIitqx2chf5pqdYHGTqsI&sensor=false">
 </script>
 
-<script src="{{ url_for('static', filename='jquery-2.1.1.min.js') }}"></script>
-<script src="{{ url_for('static', filename='underscore-min.js') }}"></script>
-<script src="{{ url_for('static', filename='backbone.js') }}"></script>
-<script src="{{ url_for('static', filename='backbone.googlemaps.js') }}"></script>
-<script src="{{ url_for('static', filename='food_trucks.js') }}"></script>
-
+<!--Library imports-->
+<script src="static/jquery/jquery-2.1.1.min.js"></script>
+<script src="static/underscore/underscore-min.js"></script>
+<script src="static/backbone/backbone.js"></script>
+<script src="static/backbone_googlemaps/backbone.googlemaps.js"></script>
 <script src="static/backgrid-0.3.5/lib/backgrid.js"></script>
 <link rel="stylesheet" href="static/backgrid-0.3.5/lib/backgrid.css"/>
-
 <link rel="stylesheet" href="static/bootstrap-3.2.0-dist/css/bootstrap.css">
 <script src="static/bootstrap-3.2.0-dist/js/bootstrap.js"></script>
 
-<link rel=stylesheet href="{{ url_for('static', filename='food_trucks.css') }}">
+<!--Application file imports-->
+<script src="static/food_trucks.js"></script>
+<link rel=stylesheet href="static/food_trucks.css">
+
 
 <title id="title_text">San Francisco Food Trucks Locator</title>
 
@@ -33,7 +34,6 @@
 <div id="address_search_container"></div>
 
 <section>
-<div id="map-canvas"></div>
-
-<div id="backgrid_table"></div> 
+  <div id="map-canvas"></div>
+  <div id="backgrid_table"></div> 
 </section>

@@ -15,15 +15,15 @@ no_latlong_cache = SimpleCache()
 # Background thread for refreshing locations
 refresh_thread = threading.Thread()
 
+# Refresh JSON file containing locations every 24 hours
 def refresh_locations():
   print "Refreshing cache"
 
   # Run once per day
   t = threading.Timer(86400.0, refresh_locations)
-  # = threading.Timer(10.0, refresh_locations)
   
   # Allows you to interrupt program cleanly
-  t.daemon = True      
+  t.daemon = True
   t.start()
 
   # Request to food trucks data API
@@ -51,6 +51,7 @@ def build_locations_lists(data, locations, no_latlong):
     item = data[x]
     if (item['status'] == 'APPROVED'):
       if ('location' not in item and 'address' in item):
+        # Found only address, so add to list for geocoding later
         item['id'] = id_count
         no_latlong.append(item)
       elif ('location' in item and 'address' in item): 
@@ -73,9 +74,6 @@ def build_locations_lists(data, locations, no_latlong):
         print 'Truck does not have latlong or address!\n{}'.format(str(item))
       id_count += 1
 
-  print len(locations)
-  print len(no_latlong)
-
 
 # Geocode the locations with no latlongs using Google Maps API
 # Use cache to speed things up on subsequent iterations
@@ -89,10 +87,7 @@ def geocode_no_latlong_locations(locations, no_latlong):
     if (cache_item):
       locations.append(cache_item)
     else:
-      addr = item['address'] + ', San Francisco'
-      payload = {'address': addr, 'key': API_KEY}
-      resp = requests.get('https://maps.googleapis.com/maps/api/geocode/json', params=payload).content
-      resp_data = json.loads(resp)
+      resp_data = googleMapsGeocode(item['address'] + ', San Francisco')
 
       geo_loc = resp_data['results'][0]['geometry']['location']
       location_item = { 'lat' : geo_loc['lat'], \
@@ -104,20 +99,21 @@ def geocode_no_latlong_locations(locations, no_latlong):
       locations.append(location_item)
       no_latlong_cache.set(cache_key, location_item, timeout=30*24*60) #30 day timeout
 
-  print len(locations) 
 
-
+# Function for refreshing locations on a separate thread
 def execute_refresh_locations():
   global refresh_thread
   # Start the timer loop that runs every 24 hours
-  refresh_thread = threading.Thread(target=refresh_locations).start()
+  refresh_thread = threading.Thread(target=refresh_locations)
+  refresh_thread.daemon = True
+  refresh_thread.start()
 
 
 # Execute refreshing locations in a separate thread 
 execute_refresh_locations()
 
 
-# Haversine formula for calculating distance b/w two points on sphere
+# Helper function, Haversine formula for calculating distance b/w two points on sphere
 # Source: http://stackoverflow.com/a/4913653
 def haversine(lon1, lat1, lon2, lat2):
   """
@@ -138,6 +134,14 @@ def haversine(lon1, lat1, lon2, lat2):
   return km 
 
 
+# Helper function for Google Maps geocoding
+def googleMapsGeocode(addr):
+  payload = {'address': addr, 'key': API_KEY}
+  resp = requests.get('https://maps.googleapis.com/maps/api/geocode/json', \
+    params=payload).content
+  return json.loads(resp)
+
+
 @app.route("/")
 def index():
   return render_template('index.html')
@@ -150,16 +154,9 @@ def food_truck_locations():
 
 @app.route("/address_search")
 def address_search():
-  # TODO: Turn this into modular code (same code as above)
-  addr = request.args.get("address")
-  payload = {'address': addr, 'key': API_KEY}
-  resp = requests.get('https://maps.googleapis.com/maps/api/geocode/json', params=payload).content
-  resp_data = json.loads(resp)
+  resp_data = googleMapsGeocode(request.args.get("address"))
 
   if len(resp_data['results']) != 0:
-
-    print resp_data['results']
-
     formatted_address = resp_data['results'][0]["formatted_address"]
 
     # Make sure address is in San Francisco
@@ -177,18 +174,16 @@ def address_search():
       for location in data:
         lat2 = float(location['lat'])
         lng2 = float(location['lng'])
+
         haversine_distance = haversine(lng1, lat1, lng2, lat2)
 
         if (haversine_distance < 1.0): # Less than one kilometer away
           within_mile.append(location)
 
       json_data.close()
-
-      print len(within_mile)
       return jsonify(search_address=search_latlong, results=within_mile)
     else:
       return "Please input a San Francisco address!"
-
   return "No address search results"
 
 if __name__ == "__main__":
