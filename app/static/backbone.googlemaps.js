@@ -227,7 +227,7 @@
       GoogleMaps.MapView.prototype.render.apply(this, arguments);
 
       // Render element
-      var tmpl = (this.template) ? $(this.template).html() : '<h2><%=title %></h2>';
+      var tmpl = (this.template) ? $(this.template).html() : '<h3 id=info_window style="top: -8px;"><%=title %></h3>';
       this.$el.html(_.template(tmpl, this.model.toJSON()));
 
       // Create InfoWindow

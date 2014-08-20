@@ -72,24 +72,26 @@ $(document).ready(function() {
       var address = $("#address_search_input").val();
       $.get( "/address_search", { 'address': address }, function( data ) {
         console.log("Inside success of address_search");
-        console.log(data);
 
-        // TODO: Make this modular?
-        // Do parsing on the server side, take a parameter
-        console.log("Parsing response from server");
-        var locations = data['results'];
-        var truck_list = parseDataForMap(locations);
+        // Parse response from server if returned data
+        if (jQuery.type(data) !== 'string') {
+          var locations = data['results'];
+          var truck_list = parseDataForMap(locations);
 
-        var table_truck_list = parseDataForTable(locations);
+          var table_truck_list = parseDataForTable(locations);
 
-        var pt = new google.maps.LatLng(data['search_address']['lat'], 
-          data['search_address']['lng']);
-        map.setCenter(pt);
-        map.setZoom(15);
+          var pt = new google.maps.LatLng(data['search_address']['lat'], 
+            data['search_address']['lng']);
+          map.setCenter(pt);
+          map.setZoom(15);
 
-        drawPins(truck_list);
+          drawPins(truck_list);
 
-        drawGrid(table_truck_list);
+          drawGrid(table_truck_list);
+        } else {
+          // Alert the error message
+          alert(data);
+        }
       })
       .fail(function() {
         console.log( "GET request to address_search failed" );
@@ -97,8 +99,11 @@ $(document).ready(function() {
     }
   });
 
+
   // Create the address search view
-  var address_search_view = new AddressSearchView({ el: $("#address_search_container") });
+  var address_search_view = new AddressSearchView({ 
+    el: $("#address_search_container") 
+  });
 
 
   // Helper function for drawing pins on the map
@@ -228,7 +233,8 @@ $(document).ready(function() {
     var i;
     for (i = 0; i < response.length; i++) {
       var truck_object = {};
-      truck_object["title"] = response[i]["applicant"];
+      truck_object["title"] = response[i]["applicant"] + " (id: " +
+        response[i]["id"] + ")";
       truck_object["lat"] = response[i]["lat"];
       truck_object["lng"] = response[i]["lng"];
       truck_list.push(truck_object);

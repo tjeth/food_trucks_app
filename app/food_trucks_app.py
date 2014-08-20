@@ -48,9 +48,6 @@ def build_locations_lists(data, locations, no_latlong):
   id_count = 1
 
   for x in range(0, len(data)):
-
-    print id_count
-
     item = data[x]
     if (item['status'] == 'APPROVED'):
       if ('location' not in item and 'address' in item):
@@ -160,28 +157,37 @@ def address_search():
   resp_data = json.loads(resp)
 
   if len(resp_data['results']) != 0:
-    geo_loc = resp_data['results'][0]['geometry']['location']
 
-    lat1 = float(geo_loc['lat'])
-    lng1 = float(geo_loc['lng'])
+    print resp_data['results']
 
-    search_latlong = {'lat': lat1, 'lng': lng1}
+    formatted_address = resp_data['results'][0]["formatted_address"]
 
-    within_mile = []
-    json_data = open('food_truck_data.json')
-    data = json.load(json_data)
-    for location in data:
-      lat2 = float(location['lat'])
-      lng2 = float(location['lng'])
-      haversine_distance = haversine(lng1, lat1, lng2, lat2)
+    # Make sure address is in San Francisco
+    if "San Francisco" in formatted_address:
+      geo_loc = resp_data['results'][0]['geometry']['location']
 
-      if (haversine_distance < 1.0): # Less than one kilometer away
-        within_mile.append(location)
+      lat1 = float(geo_loc['lat'])
+      lng1 = float(geo_loc['lng'])
 
-    json_data.close()
+      search_latlong = {'lat': lat1, 'lng': lng1}
 
-    print len(within_mile)
-    return jsonify(search_address=search_latlong, results=within_mile)
+      within_mile = []
+      json_data = open('food_truck_data.json')
+      data = json.load(json_data)
+      for location in data:
+        lat2 = float(location['lat'])
+        lng2 = float(location['lng'])
+        haversine_distance = haversine(lng1, lat1, lng2, lat2)
+
+        if (haversine_distance < 1.0): # Less than one kilometer away
+          within_mile.append(location)
+
+      json_data.close()
+
+      print len(within_mile)
+      return jsonify(search_address=search_latlong, results=within_mile)
+    else:
+      return "Please input a San Francisco address!"
 
   return "No address search results"
 

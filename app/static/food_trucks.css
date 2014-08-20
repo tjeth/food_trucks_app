@@ -16,3 +16,20 @@ div#backgrid_table {
     height: 500px;
     overflow: auto;
 }
+
+#info_window {
+    font-size: 12pt;
+}
+
+.gm-style-iw[style] {
+    top: -10px !important;
+    width: auto !important;
+}
+
+div#address_search_container {
+    padding: 12px;
+}
+
+div#header_text {
+    padding-left: 12px;
+}
