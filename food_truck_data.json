@@ -1,0 +1,3962 @@
+[
+{
+"applicant": "Cupkates Bakery, LLC", 
+"fooditems": "Cupcakes", 
+"address": "50 01ST ST", 
+"lat": "37.7901490874965", 
+"lng": "-122.398658184594", 
+"id": 1
+}, 
+{
+"applicant": "Cheese Gone Wild", 
+"fooditems": "Grilled Cheese Sandwiches", 
+"address": "400 HOWARD ST", 
+"lat": "37.7891192214396", 
+"lng": "-122.395881039325", 
+"id": 2
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "245 01ST ST", 
+"lat": "37.7879001115912", 
+"lng": "-122.394594036195", 
+"id": 3
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "390 01ST ST", 
+"lat": "37.7860914772", 
+"lng": "-122.39347293179", 
+"id": 4
+}, 
+{
+"applicant": "Expresso Subito, LLC.", 
+"fooditems": "Espresso Drinks", 
+"address": "84 02ND ST", 
+"lat": "37.7881050754192", 
+"lng": "-122.400289778395", 
+"id": 5
+}, 
+{
+"applicant": "Senor Sisig", 
+"fooditems": "Filipino fusion food: taco: burrito: nachos: rice plates", 
+"address": "120 02ND ST", 
+"lat": "37.7875140745116", 
+"lng": "-122.399566331419", 
+"id": 6
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "222 02ND ST", 
+"lat": "37.7863198120587", 
+"lng": "-122.398235074239", 
+"id": 7
+}, 
+{
+"applicant": "Celtic Catering", 
+"fooditems": "Eritrean & Irish Fusion Burgers: Irish Stew: Eritrean Stew:  Shepard's Pie: Beverages", 
+"address": "611 FOLSOM ST", 
+"lat": "37.7849799008494", 
+"lng": "-122.396536309744", 
+"id": 8
+}, 
+{
+"applicant": "Linda's Catering", 
+"fooditems": "Hot Dogs: Hamburgers: Nachos: Steaks: Pastas: Asian Dishes: Tri-Tip Sandwiches: Sodas & Water", 
+"address": "501 02ND ST", 
+"lat": "37.7831711181211", 
+"lng": "-122.392901049469", 
+"id": 9
+}, 
+{
+"applicant": "VK Industries, Inc.", 
+"fooditems": "Indian Street Food", 
+"address": "625 02ND ST", 
+"lat": "37.7816889891243", 
+"lng": "-122.391061817277", 
+"id": 10
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "750 02ND ST", 
+"lat": "37.7800057164663", 
+"lng": "-122.390270961301", 
+"id": 11
+}, 
+{
+"applicant": "Tacos El Ojo De Agua", 
+"fooditems": "Tacos: Burritos: Tortas: Quesadillas: Salads: Soup: Fruits: Juices: Soda: Water", 
+"address": "551 03RD ST", 
+"lat": "37.7806472238285", 
+"lng": "-122.394629181652", 
+"id": 12
+}, 
+{
+"applicant": "Got Snacks", 
+"fooditems": "sunflower seeds: crackerjacks: bottled water: peanuts: candy", 
+"address": "1020 03RD ST", 
+"lat": "37.7755101518346", 
+"lng": "-122.390999305993", 
+"id": 13
+}, 
+{
+"applicant": "DO UC US Mobile Catering", 
+"fooditems": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks", 
+"address": "1501 03RD ST", 
+"lat": "37.7708922448214", 
+"lng": "-122.389169231473", 
+"id": 14
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "1799 03RD ST", 
+"lat": "37.767995559478", 
+"lng": "-122.387549426537", 
+"id": 15
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "1900 03RD ST", 
+"lat": "37.765106476986", 
+"lng": "-122.389679487281", 
+"id": 16
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "2085 03RD ST", 
+"lat": "37.7632990698416", 
+"lng": "-122.388482306796", 
+"id": 17
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "2030 03RD ST", 
+"lat": "37.763659815146", 
+"lng": "-122.389133857395", 
+"id": 18
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2565 03RD ST", 
+"lat": "37.7567173136405", 
+"lng": "-122.387648962983", 
+"id": 20
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "2700 03RD ST", 
+"lat": "37.754724617818", 
+"lng": "-122.388456870364", 
+"id": 21
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2800 03RD ST", 
+"lat": "37.7537174307084", 
+"lng": "-122.388359021034", 
+"id": 22
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "2890 03RD ST", 
+"lat": "37.7531087636781", 
+"lng": "-122.388170202056", 
+"id": 23
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "2800 03RD ST", 
+"lat": "37.7537174307084", 
+"lng": "-122.388359021034", 
+"id": 24
+}, 
+{
+"applicant": "Tacos El Flaco", 
+"fooditems": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages", 
+"address": "2901 03RD ST", 
+"lat": "37.7524050062858", 
+"lng": "-122.387000196288", 
+"id": 25
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "2920 03RD ST", 
+"lat": "37.7519716426848", 
+"lng": "-122.387965483791", 
+"id": 26
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "3000 03RD ST", 
+"lat": "37.7504641293319", 
+"lng": "-122.387908325892", 
+"id": 27
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "3150 03RD ST", 
+"lat": "37.7494429514107", 
+"lng": "-122.387985532494", 
+"id": 28
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "3305 03RD ST", 
+"lat": "37.7438311859485", 
+"lng": "-122.377797368952", 
+"id": 29
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "3255 03RD ST", 
+"lat": "37.748445352649", 
+"lng": "-122.38687903197", 
+"id": 30
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "3201 03RD ST", 
+"lat": "37.748445352649", 
+"lng": "-122.38687903197", 
+"id": 31
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "3450 03RD ST", 
+"lat": "37.7457292355024", 
+"lng": "-122.387797650827", 
+"id": 33
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "3801 03RD ST", 
+"lat": "37.7410262216072", 
+"lng": "-122.387792927984", 
+"id": 34
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "6000 03RD ST", 
+"lat": "37.7239799177279", 
+"lng": "-122.395903454903", 
+"id": 36
+}, 
+{
+"applicant": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+"fooditems": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.", 
+"address": "800 MARKET ST", 
+"lat": "37.7854697602654", 
+"lng": "-122.406615761063", 
+"id": 37
+}, 
+{
+"applicant": "Off the Grid Services, LLC", 
+"fooditems": "everything except for hot dogs", 
+"address": "250 04TH ST", 
+"lat": "37.782360134796", 
+"lng": "-122.402095994553", 
+"id": 38
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "390 04TH ST", 
+"lat": "37.7808195007795", 
+"lng": "-122.400050152129", 
+"id": 39
+}, 
+{
+"applicant": "Kabob Trolley, LLC", 
+"fooditems": "Gyros: Kebobs: refreshments and dessert", 
+"address": "298 KING ST", 
+"lat": "37.7776422222931", 
+"lng": "-122.393418145922", 
+"id": 40
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1322 04TH ST", 
+"lat": "37.7638707739625", 
+"lng": "-122.460600563868", 
+"id": 42
+}, 
+{
+"applicant": "DO UC US Mobile Catering", 
+"fooditems": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks", 
+"address": "1420 04TH ST", 
+"lat": "37.7698977626866", 
+"lng": "-122.391098279625", 
+"id": 43
+}, 
+{
+"applicant": "Subs on Hubs", 
+"fooditems": "Italian subs: Cuban sandwich: Gyro", 
+"address": "400 05TH ST", 
+"lat": "37.7787104056829", 
+"lng": "-122.40183935032", 
+"id": 44
+}, 
+{
+"applicant": "Eva's Catering", 
+"fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages", 
+"address": "530 05TH ST", 
+"lat": "37.7768764025604", 
+"lng": "-122.400259575192", 
+"id": 45
+}, 
+{
+"applicant": "Off the Grid Services, LLC", 
+"fooditems": "Everything", 
+"address": "670 05TH ST", 
+"lat": "37.7755890937444", 
+"lng": "-122.397976906371", 
+"id": 46
+}, 
+{
+"applicant": "Linda's Catering", 
+"fooditems": "Hot Dogs: Hamburgers: Nachos: Steaks: Pastas: Asian Dishes: Tri-Tip Sandwiches: Sodas & Water", 
+"address": "1219 07TH AVE", 
+"lat": "37.765497001414", 
+"lng": "-122.464597619561", 
+"id": 47
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "355 07TH ST", 
+"lat": "37.7763814397779", 
+"lng": "-122.406934051616", 
+"id": 48
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "900 07TH ST", 
+"lat": "37.7698289474925", 
+"lng": "-122.400101143033", 
+"id": 49
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "1140 07TH ST", 
+"lat": "37.7682494005857", 
+"lng": "-122.398430650204", 
+"id": 50
+}, 
+{
+"applicant": "Subs on Hubs", 
+"fooditems": "Italian subs: Cuban sandwich: Gyro", 
+"address": "333 08TH ST", 
+"lat": "37.7749755136073", 
+"lng": "-122.409385823184", 
+"id": 51
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "350 08TH ST", 
+"lat": "37.7736941662617", 
+"lng": "-122.409658441346", 
+"id": 52
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "599 08TH ST", 
+"lat": "37.7718682395557", 
+"lng": "-122.405657636241", 
+"id": 53
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "380 10TH ST", 
+"lat": "37.7716538651567", 
+"lng": "-122.411809068514", 
+"id": 54
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "251 11TH ST", 
+"lat": "37.7724967915948", 
+"lng": "-122.414209845157", 
+"id": 55
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "355 11TH ST", 
+"lat": "37.7714672296901", 
+"lng": "-122.4128722942", 
+"id": 56
+}, 
+{
+"applicant": "Smokin Warehouse Barbecue", 
+"fooditems": "BBQ Sandwiches: BBQ lunch platters: sides (corn bread: beans: chili: potato salad: coleslaw): water: sodas: energy drinks: housemade iced tea.", 
+"address": "1655 MISSION ST", 
+"lat": "37.771563780123", 
+"lng": "-122.418801505429", 
+"id": 57
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "333 12TH ST", 
+"lat": "37.770818243789", 
+"lng": "-122.414007297587", 
+"id": 58
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "164 14TH ST", 
+"lat": "37.7687652647502", 
+"lng": "-122.416902205943", 
+"id": 59
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "2001 MARKET ST", 
+"lat": "37.7683202633027", 
+"lng": "-122.427110643945", 
+"id": 60
+}, 
+{
+"applicant": "Fins on the Hoof / Saveurs", 
+"fooditems": "Seafood: meats and desserts", 
+"address": "201 ALABAMA ST", 
+"lat": "37.7677978574116", 
+"lng": "-122.412096318851", 
+"id": 61
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "600 16TH ST", 
+"lat": "37.7674663009377", 
+"lng": "-122.390860289421", 
+"id": 63
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 8727/Lot005", 
+"lat": "37.7655864819421", 
+"lng": "-122.393197101156", 
+"id": 64
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1006 16TH ST", 
+"lat": "37.7666898711804", 
+"lng": "-122.397182322771", 
+"id": 66
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 3930A/Lot002", 
+"lat": "37.7665109407022", 
+"lng": "-122.40926014492", 
+"id": 67
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2500 16TH ST", 
+"lat": "37.7658204682777", 
+"lng": "-122.411968357902", 
+"id": 68
+}, 
+{
+"applicant": "Panchita's No. 2", 
+"fooditems": "Pupusas", 
+"address": "3091 16TH ST", 
+"lat": "37.764713828617", 
+"lng": "-122.42160240414", 
+"id": 69
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "3253 16TH ST", 
+"lat": "37.7644595352382", 
+"lng": "-122.425161376348", 
+"id": 70
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "2222 17TH ST", 
+"lat": "37.765215962789", 
+"lng": "-122.406006972019", 
+"id": 71
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "3030 17TH ST", 
+"lat": "37.7640381966136", 
+"lng": "-122.413757516579", 
+"id": 72
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "3335 17TH ST", 
+"lat": "37.7631564070236", 
+"lng": "-122.420322231517", 
+"id": 73
+}, 
+{
+"applicant": "Eva's Catering", 
+"fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages", 
+"address": "1650 20TH AVE", 
+"lat": "37.7579842043307", 
+"lng": "-122.433465780397", 
+"id": 74
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1255 22ND ST", 
+"lat": "37.7570155382627", 
+"lng": "-122.394062947106", 
+"id": 75
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "435 23RD ST", 
+"lat": "37.7550307405717", 
+"lng": "-122.384530734213", 
+"id": 76
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "401 23RD ST", 
+"lat": "37.7550307405717", 
+"lng": "-122.384530734213", 
+"id": 77
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "601 23RD ST", 
+"lat": "37.7550307405717", 
+"lng": "-122.384530734213", 
+"id": 78
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "435 23RD ST", 
+"lat": "37.7550307405717", 
+"lng": "-122.384530734213", 
+"id": 79
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "3050 23RD ST", 
+"lat": "37.754476447913", 
+"lng": "-122.412855363274", 
+"id": 81
+}, 
+{
+"applicant": "El Gallo Jiro", 
+"fooditems": "Burritos: Giros: Tortas: Quesadillas: Tacos & Various Beverages", 
+"address": "3055 23RD ST", 
+"lat": "37.7539277495326", 
+"lng": "-122.413323129608", 
+"id": 82
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "Assessors Block 4241/Lot002", 
+"lat": "37.7533400149877", 
+"lng": "-122.384128384227", 
+"id": 83
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "700 25TH ST", 
+"lat": "37.7533808237814", 
+"lng": "-122.386367685847", 
+"id": 84
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "1150 25TH ST", 
+"lat": "37.7531390517853", 
+"lng": "-122.390246816972", 
+"id": 85
+}, 
+{
+"applicant": "GOZA GOZA TACO", 
+"fooditems": "Tacos: burritos: soda & juice", 
+"address": "3065 25TH ST", 
+"lat": "37.7509316614491", 
+"lng": "-122.411419966196", 
+"id": 86
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1051 26TH ST", 
+"lat": "37.7512694196867", 
+"lng": "-122.389894366935", 
+"id": 87
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1090 26TH ST", 
+"lat": "37.7516084273872", 
+"lng": "-122.390309489492", 
+"id": 88
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "Assessors Block 4281a/Lot012A", 
+"lat": "37.7507607832692", 
+"lng": "-122.401540291347", 
+"id": 89
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "3150 26TH ST", 
+"lat": "37.7495331283334", 
+"lng": "-122.413116536719", 
+"id": 90
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "3251 26TH ST", 
+"lat": "37.7487621652903", 
+"lng": "-122.414326828745", 
+"id": 91
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "210 29TH ST", 
+"lat": "37.7440391124173", 
+"lng": "-122.425094186321", 
+"id": 92
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "201 ALABAMA ST", 
+"lat": "37.7677978574116", 
+"lng": "-122.412096318851", 
+"id": 93
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "380 ALABAMA ST", 
+"lat": "37.7644524065609", 
+"lng": "-122.412671891635", 
+"id": 94
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "400 ALABAMA ST", 
+"lat": "37.7638066673242", 
+"lng": "-122.412610953887", 
+"id": 95
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "501 ALABAMA ST", 
+"lat": "37.7624768333888", 
+"lng": "-122.411819003669", 
+"id": 96
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "Assessors Block 3905/Lot011", 
+"lat": "37.7685570851039", 
+"lng": "-122.409610236288", 
+"id": 97
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "1525 BRYANT ST", 
+"lat": "37.7677341064635", 
+"lng": "-122.410152601932", 
+"id": 98
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "400 ALEMANY BLVD", 
+"lat": "37.7331424089687", 
+"lng": "-122.414568632409", 
+"id": 100
+}, 
+{
+"applicant": "San Pancho's Tacos", 
+"fooditems": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks", 
+"address": "3119 ALEMANY BLVD", 
+"lat": "37.7101930338242", 
+"lng": "-122.455221906116", 
+"id": 101
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "Assessors Block 4755/Lot049", 
+"lat": "37.7263829460149", 
+"lng": "-122.378434782658", 
+"id": 102
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1315 ARMSTRONG AVE", 
+"lat": "37.7230787713519", 
+"lng": "-122.387525704007", 
+"id": 103
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "1455 BANCROFT AVE", 
+"lat": "37.7237285523763", 
+"lng": "-122.390326357752", 
+"id": 104
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1562 BANCROFT AVE", 
+"lat": "37.7254507160059", 
+"lng": "-122.391991641408", 
+"id": 105
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "175 BARNEVELD AVE", 
+"lat": "37.7448024331792", 
+"lng": "-122.402540218917", 
+"id": 106
+}, 
+{
+"applicant": "Hiyaaa", 
+"fooditems": "Korean Fried Chicken", 
+"address": "111 BATTERY ST", 
+"lat": "37.7923668006519", 
+"lng": "-122.400148306757", 
+"id": 107
+}, 
+{
+"applicant": "San Francisco Soup Company", 
+"fooditems": "Soup: salad: sandwiches: beverages: chips & cookies", 
+"address": "1105 BATTERY ST", 
+"lat": "37.8015331333644", 
+"lng": "-122.401856839289", 
+"id": 108
+}, 
+{
+"applicant": "Smokin Warehouse Barbecue", 
+"fooditems": "BBQ Sandwiches: BBQ lunch platters: sides (corn bread: beans: chili: potato salad: coleslaw): water: sodas: energy drinks: housemade iced tea.", 
+"address": "1155 BATTERY ST", 
+"lat": "37.8017914572653", 
+"lng": "-122.402308963287", 
+"id": 109
+}, 
+{
+"applicant": "Giant Burrito", 
+"fooditems": "Tacos: Burritos: Tostadas: Flautas: Tostadas: Tortas: Pozole Menudo", 
+"address": "353 BAY SHORE BLVD", 
+"lat": "37.7417178445618", 
+"lng": "-122.405417977438", 
+"id": 110
+}, 
+{
+"applicant": "La Jefa", 
+"fooditems": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks.", 
+"address": "531 BAY SHORE BLVD", 
+"lat": "37.7387268178079", 
+"lng": "-122.406736029895", 
+"id": 112
+}, 
+{
+"applicant": "Golden Catering", 
+"fooditems": "Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks", 
+"address": "2401 BAY SHORE BLVD", 
+"lat": "37.7109338068287", 
+"lng": "-122.402784538", 
+"id": 113
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "2555 BAY SHORE BLVD", 
+"lat": "37.7093754778506", 
+"lng": "-122.404154378499", 
+"id": 114
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee:cold beverages: pastries: bakery goods: cookies: icecream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "900 BEACH ST", 
+"lat": "37.8077433021994", 
+"lng": "-122.42414994486", 
+"id": 116
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "30 BEALE ST", 
+"lat": "37.7917770921335", 
+"lng": "-122.397132524452", 
+"id": 117
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "400 BEALE ST", 
+"lat": "37.7869049332311", 
+"lng": "-122.390920262952", 
+"id": 118
+}, 
+{
+"applicant": "Linda's Catering", 
+"fooditems": "Hot Dogs: Hamburgers: Nachos: Steaks: Pastas: Asian Dishes: Tri-Tip Sandwiches: Sodas & Water", 
+"address": "501 BEALE ST", 
+"lat": "37.7862367882401", 
+"lng": "-122.389066205595", 
+"id": 119
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "185 BERRY ST", 
+"lat": "37.7763271615743", 
+"lng": "-122.391796821067", 
+"id": 120
+}, 
+{
+"applicant": "San Francisco Soup Company", 
+"fooditems": "Soup: salad: sandwiches: beverages: chips & cookies", 
+"address": "185 BERRY ST", 
+"lat": "37.7763271615743", 
+"lng": "-122.391796821067", 
+"id": 121
+}, 
+{
+"applicant": "Off the Grid Services, LLC", 
+"fooditems": "everything except for hot dogs", 
+"address": "185 BERRY ST", 
+"lat": "37.7763271615743", 
+"lng": "-122.391796821067", 
+"id": 122
+}, 
+{
+"applicant": "Off the Grid Services, LLC", 
+"fooditems": "everything except for hot dogs", 
+"address": "185 BERRY ST", 
+"lat": "37.7763271615743", 
+"lng": "-122.391796821067", 
+"id": 123
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "201 BERRY ST", 
+"lat": "37.7755661681996", 
+"lng": "-122.393279842331", 
+"id": 124
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "235 BERRY ST", 
+"lat": "37.7747030612546", 
+"lng": "-122.39408939656", 
+"id": 125
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "301 BERRY ST", 
+"lat": "37.7743376801558", 
+"lng": "-122.394053286303", 
+"id": 126
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "355 BERRY ST", 
+"lat": "37.7723639285554", 
+"lng": "-122.397040970353", 
+"id": 127
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "420 BERRY ST", 
+"lat": "37.7720086702573", 
+"lng": "-122.399083845463", 
+"id": 128
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "175 BLUXOME ST", 
+"lat": "37.7743789446046", 
+"lng": "-122.399574742116", 
+"id": 129
+}, 
+{
+"applicant": "Off the Grid Services, LLC", 
+"fooditems": "Everything", 
+"address": "340 BRANNAN ST", 
+"lat": "37.7812646998024", 
+"lng": "-122.393229041528", 
+"id": 130
+}, 
+{
+"applicant": "Fins on the Hoof / Saveurs", 
+"fooditems": "Seafood: meats and desserts", 
+"address": "340 BRANNAN ST", 
+"lat": "37.7812646998024", 
+"lng": "-122.393229041528", 
+"id": 131
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "355 BRANNAN ST", 
+"lat": "37.7805610164563", 
+"lng": "-122.392849413014", 
+"id": 132
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "610 BRANNAN ST", 
+"lat": "37.7766269337064", 
+"lng": "-122.399555503777", 
+"id": 133
+}, 
+{
+"applicant": "Eva's Catering", 
+"fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages", 
+"address": "630 BRANNAN ST", 
+"lat": "37.7760987669419", 
+"lng": "-122.400287239858", 
+"id": 134
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "722 BRANNAN ST", 
+"lat": "37.7744491245615", 
+"lng": "-122.402087236053", 
+"id": 135
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "840 BRANNAN ST", 
+"lat": "37.772561703562", 
+"lng": "-122.404474024001", 
+"id": 136
+}, 
+{
+"applicant": "888 Brannan L.P.", 
+"fooditems": "Garlic Noodles: Burgers: BBQ: Rotisserie: Spam Masubi: Asian inspired tacos & burritos: Sandwiches: Soups: Fried Oyster Sandwiches: Seafood: Vegetarian: Chinese dim sum: Empanadas.Various Ethnic Street Food: Hawaiianese: Vietnamese: Indian: Filipino: Japanese: Korean: Peruvian: Chinese: Italian & American. No Mexican food allowed.", 
+"address": "888 BRANNAN ST", 
+"lat": "37.7720149872932", 
+"lng": "-122.405193212404", 
+"id": 137
+}, 
+{
+"applicant": "Subs on Hubs", 
+"fooditems": "Italian subs: Cuban sandwich: Gyro", 
+"address": "934 BRANNAN ST", 
+"lat": "37.7711790143374", 
+"lng": "-122.406573673419", 
+"id": 138
+}, 
+{
+"applicant": "Off the Grid Services, LLC", 
+"fooditems": "everything except for hot dogs", 
+"address": "90 BROADWAY", 
+"lat": "37.7992601272644", 
+"lng": "-122.399617948646", 
+"id": 139
+}, 
+{
+"applicant": "Off the Grid Services, LLC", 
+"fooditems": "everything except for hot dogs", 
+"address": "90 BROADWAY", 
+"lat": "37.7992601272644", 
+"lng": "-122.399617948646", 
+"id": 140
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "100 BROADWAY", 
+"lat": "37.7988640807119", 
+"lng": "-122.400263583771", 
+"id": 141
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "250 BROADWAY", 
+"lat": "37.7987549501636", 
+"lng": "-122.401798793844", 
+"id": 142
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "860 BROADWAY", 
+"lat": "37.7975790018241", 
+"lng": "-122.411439886079", 
+"id": 143
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2710 BROADWAY", 
+"lat": "37.7936813595417", 
+"lng": "-122.442002100558", 
+"id": 144
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2840 BROADWAY", 
+"lat": "37.7934414473276", 
+"lng": "-122.443891213774", 
+"id": 145
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2970 BROADWAY", 
+"lat": "37.7931766523925", 
+"lng": "-122.446061864649", 
+"id": 146
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2960 BROADWAY", 
+"lat": "37.793186137104", 
+"lng": "-122.445889418665", 
+"id": 147
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1300 BRYANT ST", 
+"lat": "37.7690871405584", 
+"lng": "-122.411527667122", 
+"id": 148
+}, 
+{
+"applicant": "Linda's Catering", 
+"fooditems": "Hot Dogs: Hamburgers: Nachos: Steaks: Pastas: Asian Dishes: Tri-Tip Sandwiches: Sodas & Water", 
+"address": "617 BRYANT ST", 
+"lat": "37.7790511253548", 
+"lng": "-122.398303881324", 
+"id": 149
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "645 BRYANT ST", 
+"lat": "37.778266590477", 
+"lng": "-122.398835922435", 
+"id": 150
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "945 BRYANT ST", 
+"lat": "37.7730940982598", 
+"lng": "-122.405145856475", 
+"id": 151
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "950 BRYANT ST", 
+"lat": "37.7736109933029", 
+"lng": "-122.405958407102", 
+"id": 152
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "1525 BRYANT ST", 
+"lat": "37.7677341064635", 
+"lng": "-122.410152601932", 
+"id": 153
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "2157 BRYANT ST", 
+"lat": "37.759796285523", 
+"lng": "-122.409573421614", 
+"id": 154
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "1575 BURKE AVE", 
+"lat": "37.7441784611912", 
+"lng": "-122.386715929749", 
+"id": 155
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "1570 BURKE AVE", 
+"lat": "37.7447522054313", 
+"lng": "-122.385679248712", 
+"id": 156
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "1555 BURKE AVE", 
+"lat": "37.743713489184", 
+"lng": "-122.385964790026", 
+"id": 157
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "1575 BURKE AVE", 
+"lat": "37.7441784611912", 
+"lng": "-122.386715929749", 
+"id": 158
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "1580 BURKE AVE", 
+"lat": "37.7447522054313", 
+"lng": "-122.385679248712", 
+"id": 159
+}, 
+{
+"applicant": "Curry Up Now", 
+"fooditems": "Chicken Tiki Masala Burritos: Paneer Tiki Masala Burritos: Samosas: Mango Lassi", 
+"address": "225 BUSH ST", 
+"lat": "37.790838433222", 
+"lng": "-122.401160370289", 
+"id": 160
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "5 THE EMBARCADERO", 
+"lat": "37.7943310170137", 
+"lng": "-122.395811053013", 
+"id": 161
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "50 CALIFORNIA ST", 
+"lat": "37.7940531975001", 
+"lng": "-122.397347693316", 
+"id": 162
+}, 
+{
+"applicant": "Kara's Cupcakes", 
+"fooditems": "Cupcakes", 
+"address": "100 CALIFORNIA ST", 
+"lat": "37.7939490660896", 
+"lng": "-122.398061963636", 
+"id": 163
+}, 
+{
+"applicant": "Expresso Subito, LLC.", 
+"fooditems": "Espresso Drinks", 
+"address": "150 CALIFORNIA ST", 
+"lat": "37.7936733952722", 
+"lng": "-122.398463509476", 
+"id": 164
+}, 
+{
+"applicant": "Munch India", 
+"fooditems": "Daily rotating menus consisting of various local & organic vegetable: poultry: meat: seafood : rice & bread dishes.", 
+"address": "400 CALIFORNIA ST", 
+"lat": "37.7933042893289", 
+"lng": "-122.401458998404", 
+"id": 165
+}, 
+{
+"applicant": "Cupkates Bakery, LLC", 
+"fooditems": "Cupcakes", 
+"address": "430 CALIFORNIA ST", 
+"lat": "37.793262220691", 
+"lng": "-122.401789091353", 
+"id": 167
+}, 
+{
+"applicant": "Sanguchon", 
+"fooditems": "Peruvian food", 
+"address": "475 CALIFORNIA ST", 
+"lat": "37.7923463989168", 
+"lng": "-122.402385322784", 
+"id": 168
+}, 
+{
+"applicant": "San Pancho's Tacos", 
+"fooditems": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks", 
+"address": "1271 CAPITOL AVE", 
+"lat": "37.7242977923624", 
+"lng": "-122.459377309538", 
+"id": 169
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1420 CARROLL AVE", 
+"lat": "37.7235768703242", 
+"lng": "-122.39005910139", 
+"id": 170
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "1301 CESAR CHAVEZ ST", 
+"lat": "37.7492558733397", 
+"lng": "-122.390975379567", 
+"id": 172
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "2190 CESAR CHAVEZ ST", 
+"lat": "37.7502368985887", 
+"lng": "-122.397818031709", 
+"id": 173
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2400 CESAR CHAVEZ ST", 
+"lat": "37.749916483201", 
+"lng": "-122.401130112202", 
+"id": 174
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2300 CESAR CHAVEZ ST", 
+"lat": "37.749945299567", 
+"lng": "-122.400420884428", 
+"id": 175
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "2323 CESAR CHAVEZ ST", 
+"lat": "37.7488013915255", 
+"lng": "-122.400552458775", 
+"id": 176
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "2200 CESAR CHAVEZ ST", 
+"lat": "37.7500488397802", 
+"lng": "-122.399672059699", 
+"id": 177
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "2323 CESAR CHAVEZ ST", 
+"lat": "37.7488013915255", 
+"lng": "-122.400552458775", 
+"id": 178
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "2150 CESAR CHAVEZ ST", 
+"lat": "37.7502368985887", 
+"lng": "-122.397818031709", 
+"id": 179
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2501 CESAR CHAVEZ ST", 
+"lat": "37.7489792549662", 
+"lng": "-122.402409234551", 
+"id": 180
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 8711/Lot023", 
+"lat": "37.7740748548448", 
+"lng": "-122.390668458136", 
+"id": 181
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 3810/Lot008", 
+"lat": "37.7720391273135", 
+"lng": "-122.395974631576", 
+"id": 182
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 8720/Lot009", 
+"lat": "37.7721522570328", 
+"lng": "-122.387742984106", 
+"id": 184
+}, 
+{
+"applicant": "Paradise Catering", 
+"fooditems": "Cold Truck: Sandwiches: snacks: prepackaged items: beverages:", 
+"address": "19 CLEMENTINA ST", 
+"lat": "37.7871577579478", 
+"lng": "-122.395447605142", 
+"id": 186
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "146 CONNECTICUT ST", 
+"lat": "37.7644473093577", 
+"lng": "-122.397987371498", 
+"id": 187
+}, 
+{
+"applicant": "Golden Catering", 
+"fooditems": "Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks", 
+"address": "601 CRESCENT AVE", 
+"lat": "37.7350053129528", 
+"lng": "-122.415417409735", 
+"id": 188
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "1650 DAVIDSON AVE", 
+"lat": "37.7467113168533", 
+"lng": "-122.392150319443", 
+"id": 189
+}, 
+{
+"applicant": "Cheese Gone Wild", 
+"fooditems": "Grilled Cheese Sandwiches", 
+"address": "No Address", 
+"lat": "37.7982530079346", 
+"lng": "-122.399171569514", 
+"id": 190
+}, 
+{
+"applicant": "Linda's Catering", 
+"fooditems": "Hot Dogs: Hamburgers: Nachos: Steaks: Pastas: Asian Dishes: Tri-Tip Sandwiches: Sodas & Water", 
+"address": "999 DIVISADERO ST", 
+"lat": "37.7783843147514", 
+"lng": "-122.438782388557", 
+"id": 191
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "2001 MARKET ST", 
+"lat": "37.7683202633027", 
+"lng": "-122.427110643945", 
+"id": 192
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1347 DONNER AVE", 
+"lat": "37.721450853571", 
+"lng": "-122.389353445066", 
+"id": 193
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1475 DONNER AVE", 
+"lat": "37.7227937025955", 
+"lng": "-122.391719666463", 
+"id": 194
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1600 DONNER AVE", 
+"lat": "37.7240091203753", 
+"lng": "-122.392986782568", 
+"id": 195
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "5 THE EMBARCADERO", 
+"lat": "37.7943310170137", 
+"lng": "-122.395811053013", 
+"id": 196
+}, 
+{
+"applicant": "Covered Dish Productions, LLC. dba. The Rib Whip", 
+"fooditems": "St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac & Cheese: Potato Salad: Buttermil Pie: Soda: Water", 
+"address": "253 DRUMM ST", 
+"lat": "37.7961233940173", 
+"lng": "-122.397273204328", 
+"id": 197
+}, 
+{
+"applicant": "Curry Up Now", 
+"fooditems": "Chicken Tiki Masala Burritos: Paneer Tiki Masala Burritos: Samosas: Mango Lassi", 
+"address": "370 DRUMM ST", 
+"lat": "37.796913726248", 
+"lng": "-122.396650675254", 
+"id": 198
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1346 EDDY ST", 
+"lat": "37.7818671313531", 
+"lng": "-122.429885247593", 
+"id": 199
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "1785 EGBERT AVE", 
+"lat": "37.7260861845053", 
+"lng": "-122.398332406167", 
+"id": 200
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "1828 EGBERT AVE", 
+"lat": "37.7275936157523", 
+"lng": "-122.400117226053", 
+"id": 201
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "1843 EGBERT AVE", 
+"lat": "37.7271654873259", 
+"lng": "-122.401093930715", 
+"id": 202
+}, 
+{
+"applicant": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+"fooditems": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.", 
+"address": "800 MARKET ST", 
+"lat": "37.7854697602654", 
+"lng": "-122.406615761063", 
+"id": 203
+}, 
+{
+"applicant": "VK Industries, Inc.", 
+"fooditems": "Indian Street Food", 
+"address": "34 ELLIS ST", 
+"lat": "37.7875651791523", 
+"lng": "-122.40959283347", 
+"id": 204
+}, 
+{
+"applicant": "Senor Sisig", 
+"fooditems": "Filipino fusion food: taco: burrito: nachos: rice plates", 
+"address": "120 ELLIS ST", 
+"lat": "37.7856101001445", 
+"lng": "-122.408154764336", 
+"id": 205
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "368 ELM ST", 
+"lat": "37.7813800413344", 
+"lng": "-122.423143845496", 
+"id": 206
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1059 EVANS AVE", 
+"lat": "37.7365721962415", 
+"lng": "-122.378209667192", 
+"id": 207
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "1000 EVANS AVE", 
+"lat": "37.7377268804175", 
+"lng": "-122.376572914563", 
+"id": 208
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "1000 EVANS AVE", 
+"lat": "37.7377268804175", 
+"lng": "-122.376572914563", 
+"id": 209
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "1550 EVANS AVE", 
+"lat": "37.742989888592", 
+"lng": "-122.386773267166", 
+"id": 210
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "1801 EVANS AVE", 
+"lat": "37.7445912089067", 
+"lng": "-122.393076880848", 
+"id": 211
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "1801 EVANS AVE", 
+"lat": "37.7445912089067", 
+"lng": "-122.393076880848", 
+"id": 212
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2090 EVANS AVE", 
+"lat": "37.7479549783796", 
+"lng": "-122.395797384907", 
+"id": 213
+}, 
+{
+"applicant": "Eva's Catering", 
+"fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages", 
+"address": "2045 EVANS AVE", 
+"lat": "37.7477721054195", 
+"lng": "-122.397031718968", 
+"id": 214
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "2045 EVANS AVE", 
+"lat": "37.7477721054195", 
+"lng": "-122.397031718968", 
+"id": 216
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "150 EXECUTIVE PARK BLVD", 
+"lat": "37.7108379449887", 
+"lng": "-122.393543363003", 
+"id": 217
+}, 
+{
+"applicant": "Golden Catering", 
+"fooditems": "Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks", 
+"address": "301 EXECUTIVE PARK BLVD", 
+"lat": "37.711632295042", 
+"lng": "-122.390016333627", 
+"id": 219
+}, 
+{
+"applicant": "Casey's Pizza, LLC", 
+"fooditems": "Artisan Pizzas (Margherita: Yukon Potato: Zoe's Pepperoni: Funghi: Brocolli Rabe: Bacon Kale:  Arugula) and Drinks.", 
+"address": "368 FELL ST", 
+"lat": "37.7760487218769", 
+"lng": "-122.423939211162", 
+"id": 220
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1104 FITZGERALD AVE", 
+"lat": "37.720174736488", 
+"lng": "-122.389407114332", 
+"id": 221
+}, 
+{
+"applicant": "Fins on the Hoof / Saveurs", 
+"fooditems": "Seafood: meats and desserts", 
+"address": "201 ALABAMA ST", 
+"lat": "37.7677978574116", 
+"lng": "-122.412096318851", 
+"id": 222
+}, 
+{
+"applicant": "GOZA GOZA TACO", 
+"fooditems": "Tacos: burritos: soda & juice", 
+"address": "1501 FOLSOM ST", 
+"lat": "37.7715867164593", 
+"lng": "-122.414007043014", 
+"id": 223
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "1690 FOLSOM ST", 
+"lat": "37.7701375942919", 
+"lng": "-122.415983402794", 
+"id": 224
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1750 FOLSOM ST", 
+"lat": "37.768903534358", 
+"lng": "-122.415981174592", 
+"id": 225
+}, 
+{
+"applicant": "Tacos El Primo", 
+"fooditems": "Mexican food: tacos: burritos: tortas: various meat and chicken and fish plate: chile relleno plate: fish plate: bread: flan: rice pudding: bread: fruit juice: vegetable juice: coffee: tea", 
+"address": "1800 FOLSOM ST", 
+"lat": "37.7678524565106", 
+"lng": "-122.416104892522", 
+"id": 226
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2000 FOLSOM ST", 
+"lat": "37.7650271776775", 
+"lng": "-122.41550777248", 
+"id": 227
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "500 FRANCISCO ST", 
+"lat": "37.8050495228154", 
+"lng": "-122.41433443693", 
+"id": 228
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "1150 FRANCISCO ST", 
+"lat": "37.803790257798", 
+"lng": "-122.424145174973", 
+"id": 229
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "147 FREMONT ST", 
+"lat": "37.7901855844043", 
+"lng": "-122.3954717258", 
+"id": 230
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "350 FREMONT ST", 
+"lat": "37.7870765441583", 
+"lng": "-122.392982624218", 
+"id": 231
+}, 
+{
+"applicant": "Expresso Subito, LLC.", 
+"fooditems": "Expresso drinks: assorted beverages (canned: bottled: home made): scones: croissants: bagels: soup: chili: parfaits: smoothies: frappes: milk shakes.", 
+"address": "150 CALIFORNIA ST", 
+"lat": "37.7936733952722", 
+"lng": "-122.398463509476", 
+"id": 232
+}, 
+{
+"applicant": "Del Popolo, LLC.", 
+"fooditems": "Wood Fired Pizzas", 
+"address": "600 FRONT ST", 
+"lat": "37.7974551705463", 
+"lng": "-122.399011222811", 
+"id": 233
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "365 FULTON ST", 
+"lat": "37.7784936109674", 
+"lng": "-122.422954747386", 
+"id": 234
+}, 
+{
+"applicant": "San Francisco Soup Company", 
+"fooditems": "Soup: salad: sandwiches: beverages: chips & cookies", 
+"address": "2241 GEARY BLVD", 
+"lat": "37.7826722851696", 
+"lng": "-122.440969301721", 
+"id": 235
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "100 GEARY ST", 
+"lat": "37.7879142434972", 
+"lng": "-122.405270523085", 
+"id": 236
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "251 GEARY ST", 
+"lat": "37.7871763055155", 
+"lng": "-122.407398075948", 
+"id": 237
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "233 GEARY ST", 
+"lat": "37.7872426163705", 
+"lng": "-122.406879738203", 
+"id": 238
+}, 
+{
+"applicant": "Giant Burrito", 
+"fooditems": "Tacos: Burritos: Tostadas: Flautas: Tostadas: Tortas: Pozole Menudo", 
+"address": "1500 GENEVA AVE", 
+"lat": "37.7123026185908", 
+"lng": "-122.431644190363", 
+"id": 239
+}, 
+{
+"applicant": "Covered Dish Productions, LLC. dba. The Rib Whip", 
+"fooditems": "St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac & Cheese: Potato Salad: Buttermil Pie: Soda: Water", 
+"address": "900 FRONT ST", 
+"lat": "37.8002209293534", 
+"lng": "-122.399569018567", 
+"id": 240
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2590 GREEN ST", 
+"lat": "37.7955856636291", 
+"lng": "-122.441718244278", 
+"id": 241
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2701 GREEN ST", 
+"lat": "37.7949291088162", 
+"lng": "-122.443832982473", 
+"id": 242
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2854 GREEN ST", 
+"lat": "37.7950514445922", 
+"lng": "-122.446134422664", 
+"id": 243
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "2900 GRIFFITH ST", 
+"lat": "37.7169913041658", 
+"lng": "-122.38959908416", 
+"id": 244
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "1265 GROVE ST", 
+"lat": "37.7757743821951", 
+"lng": "-122.437331607831", 
+"id": 245
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "1477 GROVE ST", 
+"lat": "37.7752901561049", 
+"lng": "-122.440731162101", 
+"id": 246
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "20 HAIGHT ST", 
+"lat": "37.7733408911325", 
+"lng": "-122.422806203973", 
+"id": 247
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "297 HARBOR RD", 
+"lat": "37.7334388254666", 
+"lng": "-122.380467549508", 
+"id": 248
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "355 FREMONT ST", 
+"lat": "37.7873224330936", 
+"lng": "-122.392223706374", 
+"id": 249
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "401 HARRISON ST", 
+"lat": "37.7860625348721", 
+"lng": "-122.392176463939", 
+"id": 250
+}, 
+{
+"applicant": "Paradise Catering", 
+"fooditems": "Cold Truck: Sandwiches: snacks: prepackaged items: beverages:", 
+"address": "575 HARRISON ST", 
+"lat": "37.7844205057694", 
+"lng": "-122.394380639092", 
+"id": 252
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "600 HARRISON ST", 
+"lat": "37.7841316648978", 
+"lng": "-122.39591339798", 
+"id": 253
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "950 HARRISON ST", 
+"lat": "37.7783886295689", 
+"lng": "-122.403191783219", 
+"id": 254
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "1140 HARRISON ST", 
+"lat": "37.7749843198545", 
+"lng": "-122.40784088805", 
+"id": 255
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "1830 HARRISON ST", 
+"lat": "37.7679846086569", 
+"lng": "-122.413953822512", 
+"id": 256
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "2010 HARRISON ST", 
+"lat": "37.7875875185016", 
+"lng": "-122.390471540322", 
+"id": 257
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2130 HARRISON ST", 
+"lat": "37.7628149670264", 
+"lng": "-122.413211513663", 
+"id": 258
+}, 
+{
+"applicant": "El Tonayense #60", 
+"fooditems": "Tacos: Burritos: Tortas: Quesadillas: Drinks", 
+"address": "401 TREAT AVE", 
+"lat": "37.7631083391738", 
+"lng": "-122.413454890012", 
+"id": 259
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2301 HARRISON ST", 
+"lat": "37.7600996792894", 
+"lng": "-122.412375997312", 
+"id": 261
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "3040 HARRISON ST", 
+"lat": "37.7488480703773", 
+"lng": "-122.412618994645", 
+"id": 264
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2930 HAWES ST", 
+"lat": "37.717779467468", 
+"lng": "-122.391654765169", 
+"id": 265
+}, 
+{
+"applicant": "Let's Be Frank", 
+"fooditems": "Hot dogs and chili", 
+"address": "425 HAYES ST", 
+"lat": "37.7765669103036", 
+"lng": "-122.423395376717", 
+"id": 266
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1000 HOLLISTER AVE", 
+"lat": "37.7189398329359", 
+"lng": "-122.390517872056", 
+"id": 268
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "300 HOWARD ST", 
+"lat": "37.7895693276681", 
+"lng": "-122.395129390511", 
+"id": 269
+}, 
+{
+"applicant": "Kara's Cupcakes", 
+"fooditems": "Cupcakes", 
+"address": "400 HOWARD ST", 
+"lat": "37.7891192214396", 
+"lng": "-122.395881039325", 
+"id": 270
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "480 HOWARD ST", 
+"lat": "37.7802918343718", 
+"lng": "-122.406857977955", 
+"id": 271
+}, 
+{
+"applicant": "JapaCurry", 
+"fooditems": "Katsu Curry: KUROBUTA Sausage Curry: Vegetable Curry: Veggie Croquette Curry: Chicken NANBAN Bento: Nori Bento: water: soda: green tea", 
+"address": "400 HOWARD ST", 
+"lat": "37.7891192214396", 
+"lng": "-122.395881039325", 
+"id": 272
+}, 
+{
+"applicant": "Cheese Gone Wild", 
+"fooditems": "Grilled Cheese Sandwiches", 
+"address": "555 HOWARD ST", 
+"lat": "37.7873788555836", 
+"lng": "-122.396874967153", 
+"id": 273
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "525 HOWARD ST", 
+"lat": "37.7878141215415", 
+"lng": "-122.396322298292", 
+"id": 275
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "661 HOWARD ST", 
+"lat": "37.7853456904174", 
+"lng": "-122.399455276688", 
+"id": 276
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "701 HOWARD ST", 
+"lat": "37.7835133650227", 
+"lng": "-122.400813391095", 
+"id": 277
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "600 ILLINOIS ST", 
+"lat": "37.7641601420164", 
+"lng": "-122.388142262118", 
+"id": 280
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "Assessors Block 3941/Lot001", 
+"lat": "37.7647413364705", 
+"lng": "-122.387124812169", 
+"id": 281
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1000 ILLINOIS ST", 
+"lat": "37.759245932827", 
+"lng": "-122.387917376981", 
+"id": 282
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "1499 ILLINOIS ST", 
+"lat": "37.7530403340012", 
+"lng": "-122.386631763528", 
+"id": 283
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "Assessors Block 4296/Lot010", 
+"lat": "37.7524050062858", 
+"lng": "-122.387000196288", 
+"id": 284
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "998 INDIANA ST", 
+"lat": "37.7580374072901", 
+"lng": "-122.391671890672", 
+"id": 285
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "951 INDIANA ST", 
+"lat": "37.758786176107", 
+"lng": "-122.390958398683", 
+"id": 286
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "975 INDIANA ST", 
+"lat": "37.7581699534173", 
+"lng": "-122.390900582657", 
+"id": 287
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "1095 INDIANA ST", 
+"lat": "37.7569070994246", 
+"lng": "-122.390525368125", 
+"id": 288
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 4228/Lot080", 
+"lat": "37.7536799927738", 
+"lng": "-122.390414532284", 
+"id": 289
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "1575 INDIANA ST", 
+"lat": "37.7508496206215", 
+"lng": "-122.390027615492", 
+"id": 290
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1575 INDIANA ST", 
+"lat": "37.7508496206215", 
+"lng": "-122.390027615492", 
+"id": 291
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "75 INDUSTRIAL ST", 
+"lat": "37.7392166000826", 
+"lng": "-122.400864373295", 
+"id": 292
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1309 INGALLS ST", 
+"lat": "37.7303742516917", 
+"lng": "-122.381861878647", 
+"id": 293
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1173 INGERSON AVE", 
+"lat": "37.7204493764978", 
+"lng": "-122.395915014227", 
+"id": 294
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "Assessors Block 4644/Lot008", 
+"lat": "37.730906164188", 
+"lng": "-122.373302577475", 
+"id": 295
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "Assessors Block 4645/Lot015", 
+"lat": "37.7321349657494", 
+"lng": "-122.375398078558", 
+"id": 296
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "3756 JACKSON ST", 
+"lat": "37.7899082470699", 
+"lng": "-122.456762533972", 
+"id": 297
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "800 JAMESTOWN AVE", 
+"lat": "37.7164430159898", 
+"lng": "-122.389937879311", 
+"id": 298
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "800 JAMESTOWN AVE", 
+"lat": "37.7164430159898", 
+"lng": "-122.389937879311", 
+"id": 299
+}, 
+{
+"applicant": "Golden Catering", 
+"fooditems": "Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks", 
+"address": "835 JAMESTOWN AVE", 
+"lat": "37.7171741756453", 
+"lng": "-122.392222474614", 
+"id": 300
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "2115 JENNINGS ST", 
+"lat": "37.7267279920895", 
+"lng": "-122.388658428822", 
+"id": 301
+}, 
+{
+"applicant": "Tacos El Primo", 
+"fooditems": "Mexican food: tacos: burritos: tortas: various meat and chicken and fish plate: chile relleno plate: fish plate: bread: flan: rice pudding: bread: fruit juice: vegetable juice: coffee: tea", 
+"address": "1495 WALLACE AVE", 
+"lat": "37.7259305088731", 
+"lng": "-122.389215559411", 
+"id": 302
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "3444 JENNINGS ST", 
+"lat": "37.7185220624068", 
+"lng": "-122.396661444407", 
+"id": 303
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2270 JERROLD AVE", 
+"lat": "37.7461044655288", 
+"lng": "-122.400361834956", 
+"id": 304
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "350 KANSAS ST", 
+"lat": "37.7653706831121", 
+"lng": "-122.403907848202", 
+"id": 305
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "Assessors Block 4341/Lot001", 
+"lat": "37.7489503772379", 
+"lng": "-122.401493189698", 
+"id": 306
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1060 KEY AVE", 
+"lat": "37.719200231553", 
+"lng": "-122.395976731086", 
+"id": 307
+}, 
+{
+"applicant": "Kara's Cupcakes", 
+"fooditems": "Cupcakes", 
+"address": "118 KING ST", 
+"lat": "37.7798363466647", 
+"lng": "-122.390629949731", 
+"id": 309
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1698 KIRKWOOD AVE", 
+"lat": "37.7393571746877", 
+"lng": "-122.391522811749", 
+"id": 310
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "195 KISKA RD", 
+"lat": "37.7294383022838", 
+"lng": "-122.376657800713", 
+"id": 311
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "2111 LANE ST", 
+"lat": "37.7287879715568", 
+"lng": "-122.392294820692", 
+"id": 312
+}, 
+{
+"applicant": "Hiyaaa", 
+"fooditems": "Korean Fried Chicken", 
+"address": "200 LARKIN ST", 
+"lat": "37.7802154940687", 
+"lng": "-122.416025770141", 
+"id": 313
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "1144 LARKIN ST", 
+"lat": "37.7885275890857", 
+"lng": "-122.418313685711", 
+"id": 314
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1098 LE CONTE AVE", 
+"lat": "37.7194317323202", 
+"lng": "-122.398139506904", 
+"id": 315
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1075 LE CONTE AVE", 
+"lat": "37.7187880928602", 
+"lng": "-122.39810598774", 
+"id": 316
+}, 
+{
+"applicant": "Let's Be Frank", 
+"fooditems": "Hot dogs and chili", 
+"address": "404 OCTAVIA ST", 
+"lat": "37.7760390764506", 
+"lng": "-122.424175571482", 
+"id": 317
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "10 LOOMIS ST", 
+"lat": "37.7437839371985", 
+"lng": "-122.403788829601", 
+"id": 318
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "888 MARIN ST", 
+"lat": "37.7494583428374", 
+"lng": "-122.385081339669", 
+"id": 320
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2525 MARIN ST", 
+"lat": "37.7476160860452", 
+"lng": "-122.401976975714", 
+"id": 321
+}, 
+{
+"applicant": "DO UC US Mobile Catering", 
+"fooditems": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks", 
+"address": "2590 MARIN ST", 
+"lat": "37.7483758395894", 
+"lng": "-122.403200626486", 
+"id": 322
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "2525 MARIN ST", 
+"lat": "37.7476160860452", 
+"lng": "-122.401976975714", 
+"id": 323
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "601 MARIPOSA ST", 
+"lat": "37.7640521037205", 
+"lng": "-122.390144393978", 
+"id": 324
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "777 MARIPOSA ST", 
+"lat": "37.7638112910871", 
+"lng": "-122.39126535059", 
+"id": 325
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1040 MARIPOSA ST", 
+"lat": "37.764202392098", 
+"lng": "-122.39428524233", 
+"id": 326
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "2500 MARIPOSA ST", 
+"lat": "37.7637272274294", 
+"lng": "-122.40933414878", 
+"id": 328
+}, 
+{
+"applicant": "Del Popolo, LLC.", 
+"fooditems": "Wood Fired Pizzas", 
+"address": "2772 MARIPOSA ST", 
+"lat": "37.7632929325259", 
+"lng": "-122.41074477292", 
+"id": 329
+}, 
+{
+"applicant": "Halal Cart", 
+"fooditems": "Gyros: Kebabs: soft drinks: and water", 
+"address": "455 MARKET ST", 
+"lat": "37.7909470556936", 
+"lng": "-122.398633589394", 
+"id": 330
+}, 
+{
+"applicant": "The Chai Cart", 
+"fooditems": "Hot Indian Chai", 
+"address": "525 MARKET ST", 
+"lat": "37.7904067337112", 
+"lng": "-122.399275886076", 
+"id": 331
+}, 
+{
+"applicant": "The Creme Brulee Cart", 
+"fooditems": "Creme Brulee", 
+"address": "532 MARKET ST", 
+"lat": "37.7905483319538", 
+"lng": "-122.400333673669", 
+"id": 332
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "2 MONTGOMERY ST", 
+"lat": "37.7893919898744", 
+"lng": "-122.401824747111", 
+"id": 333
+}, 
+{
+"applicant": "Kettle Corn Star", 
+"fooditems": "Kettle Corn: Funnel Cakes: Lemonade: Beverages: Flan", 
+"address": "773 MARKET ST", 
+"lat": "37.785395653216", 
+"lng": "-122.404391042821", 
+"id": 334
+}, 
+{
+"applicant": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+"fooditems": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.", 
+"address": "800 MARKET ST", 
+"lat": "37.7854697602654", 
+"lng": "-122.406615761063", 
+"id": 335
+}, 
+{
+"applicant": "Creme Brulee To Go", 
+"fooditems": "Kettle Corn", 
+"address": "801 MARKET ST", 
+"lat": "37.7849902930824", 
+"lng": "-122.405676629062", 
+"id": 336
+}, 
+{
+"applicant": "Kettle Corn Star", 
+"fooditems": "Kettle Corn: Funnel Cakes: Waffles: Lemonade", 
+"address": "865 MARKET ST", 
+"lat": "37.7839469217512", 
+"lng": "-122.407158344974", 
+"id": 337
+}, 
+{
+"applicant": "Creme Brulee To Go", 
+"fooditems": "Kettle Corn", 
+"address": "870 MARKET ST", 
+"lat": "37.7851109342236", 
+"lng": "-122.407422668267", 
+"id": 338
+}, 
+{
+"applicant": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+"fooditems": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks", 
+"address": "870 MARKET ST", 
+"lat": "37.7851109342236", 
+"lng": "-122.407422668267", 
+"id": 339
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1411 MARKET ST", 
+"lat": "37.7758255335431", 
+"lng": "-122.417249626633", 
+"id": 340
+}, 
+{
+"applicant": "Del Popolo, LLC.", 
+"fooditems": "Pizza & various drinks", 
+"address": "1438 MARKET ST", 
+"lat": "37.7762350322556", 
+"lng": "-122.418435137875", 
+"id": 341
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "1601 MARKET ST", 
+"lat": "37.7739150794665", 
+"lng": "-122.420026291494", 
+"id": 342
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "2145 MARKET ST", 
+"lat": "37.7666247865094", 
+"lng": "-122.429511176337", 
+"id": 343
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "270 MASONIC AVE", 
+"lat": "37.7789186036752", 
+"lng": "-122.446748796805", 
+"id": 344
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "151 MENDELL ST", 
+"lat": "37.7428202484928", 
+"lng": "-122.382847355508", 
+"id": 345
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "620 MENDELL ST", 
+"lat": "37.7393786832575", 
+"lng": "-122.386337945144", 
+"id": 346
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "911 MINNA ST", 
+"lat": "37.7743980247265", 
+"lng": "-122.415658655801", 
+"id": 347
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "535 MINNESOTA ST", 
+"lat": "37.7636908848926", 
+"lng": "-122.390457386006", 
+"id": 348
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "1275 MINNESOTA ST", 
+"lat": "37.7542517226994", 
+"lng": "-122.38938122887", 
+"id": 351
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "1310 MINNESOTA ST", 
+"lat": "37.7536999137501", 
+"lng": "-122.390068346898", 
+"id": 352
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1400 MINNESOTA ST", 
+"lat": "37.7520746000162", 
+"lng": "-122.390144900812", 
+"id": 353
+}, 
+{
+"applicant": "SF Cart Project", 
+"fooditems": "7 Multiple Trucks on rotation (1 on Mission Bay Blvd South & 6 on 4th St).   Serving everything but hot dogs", 
+"address": "535 MISSION BAY BLVD SOUTH", 
+"lat": "37.7691244259594", 
+"lng": "-122.391474911236", 
+"id": 354
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "Assessors Block 8732/Lot001", 
+"lat": "37.7707029898873", 
+"lng": "-122.390790355557", 
+"id": 355
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "98 MISSION ST", 
+"lat": "37.7933707306956", 
+"lng": "-122.394233280438", 
+"id": 357
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "350 MISSION ST", 
+"lat": "37.7908854772721", 
+"lng": "-122.396685875801", 
+"id": 358
+}, 
+{
+"applicant": "Kara's Cupcakes", 
+"fooditems": "Cupcakes", 
+"address": "531 MISSION ST", 
+"lat": "37.7888607153295", 
+"lng": "-122.398109238797", 
+"id": 359
+}, 
+{
+"applicant": "VK Industries, Inc.", 
+"fooditems": "Indian Street Food", 
+"address": "536 MISSION ST", 
+"lat": "37.7892489221855", 
+"lng": "-122.398892959337", 
+"id": 360
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "560 MISSION ST", 
+"lat": "37.7888647291153", 
+"lng": "-122.399359351353", 
+"id": 361
+}, 
+{
+"applicant": "Faith Sandwich", 
+"fooditems": "Vietnamese sandwiches: various meat rice plates & bowls: vermicelli: spring rolls: sticky rice: Vietnamese Goi: coffee:  various flavored tea : various soda and juices: water.", 
+"address": "560 MISSION ST", 
+"lat": "37.7888647291153", 
+"lng": "-122.399359351353", 
+"id": 362
+}, 
+{
+"applicant": "JapaCurry", 
+"fooditems": "Katsu Curry: KUROBUTA Sausage Curry: Vegetable Curry: Veggie Croquette Curry: Chicken NANBAN Bento: Nori Bento: water: soda: green tea", 
+"address": "602 MISSION ST", 
+"lat": "37.7879732969891", 
+"lng": "-122.400185049879", 
+"id": 363
+}, 
+{
+"applicant": "Casey's Pizza, LLC", 
+"fooditems": "Artisan Pizzas (Margherita: Yukon Potato: Zoe's Pepperoni: Funghi: Brocolli Rabe: Bacon Kale:  Arugula) and Drinks.", 
+"address": "654 MISSION ST", 
+"lat": "37.7871828614892", 
+"lng": "-122.401234808841", 
+"id": 364
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "667 MISSION ST", 
+"lat": "37.7865580639543", 
+"lng": "-122.40103337534", 
+"id": 365
+}, 
+{
+"applicant": "Rita's Catering", 
+"fooditems": "Filipino Food", 
+"address": "1028 MISSION ST", 
+"lat": "37.7806943911883", 
+"lng": "-122.409668813209", 
+"id": 366
+}, 
+{
+"applicant": "GOZA GOZA TACO", 
+"fooditems": "Tacos: burritos: soda & juice", 
+"address": "1455 MARKET ST", 
+"lat": "37.7752283216194", 
+"lng": "-122.41746613186", 
+"id": 367
+}, 
+{
+"applicant": "Smokin Warehouse Barbecue", 
+"fooditems": "BBQ Sandwiches: BBQ lunch platters: sides (corn bread: beans: chili: potato salad: coleslaw): water: sodas: energy drinks: housemade iced tea.", 
+"address": "1655 MISSION ST", 
+"lat": "37.771563780123", 
+"lng": "-122.418801505429", 
+"id": 368
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "1850 MISSION ST", 
+"lat": "37.7673476844971", 
+"lng": "-122.420476639071", 
+"id": 369
+}, 
+{
+"applicant": "Julie's Hot Dogs", 
+"fooditems": "Hot dogs: Bacon wrapped hot dogs: soda: water: sports drinks: energy drinks: chips", 
+"address": "2401 MISSION ST", 
+"lat": "37.7584372581758", 
+"lng": "-122.418678308219", 
+"id": 370
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "1200 MISSISSIPPI ST", 
+"lat": "37.7516910495311", 
+"lng": "-122.394374213253", 
+"id": 371
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "1200 MISSISSIPPI ST", 
+"lat": "37.7516910495311", 
+"lng": "-122.394374213253", 
+"id": 372
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "555 MISSOURI ST", 
+"lat": "37.7593037801842", 
+"lng": "-122.395902231226", 
+"id": 373
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "2 MONTGOMERY ST", 
+"lat": "37.7893919898744", 
+"lng": "-122.401824747111", 
+"id": 374
+}, 
+{
+"applicant": "Cupkates Bakery, LLC", 
+"fooditems": "Cupcakes", 
+"address": "25 MONTGOMERY ST", 
+"lat": "37.7894867098994", 
+"lng": "-122.402467437995", 
+"id": 375
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 4347a/Lot004", 
+"lat": "37.7478431671843", 
+"lng": "-122.394575214947", 
+"id": 376
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "180 NAPOLEON ST", 
+"lat": "37.7475862900686", 
+"lng": "-122.398865700786", 
+"id": 377
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "250 NAPOLEON ST", 
+"lat": "37.7467555682904", 
+"lng": "-122.400906270349", 
+"id": 378
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "190 NAPOLEON ST", 
+"lat": "37.7475862900686", 
+"lng": "-122.398865700786", 
+"id": 379
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "400 HOWARD ST", 
+"lat": "37.7891192214396", 
+"lng": "-122.395881039325", 
+"id": 380
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "2 MONTGOMERY ST", 
+"lat": "37.7893919898744", 
+"lng": "-122.401824747111", 
+"id": 382
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "330 NEWHALL ST", 
+"lat": "37.742989888592", 
+"lng": "-122.386773267166", 
+"id": 383
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "220 NEWHALL ST", 
+"lat": "37.7430142634481", 
+"lng": "-122.384460244925", 
+"id": 384
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "300 NEWHALL ST", 
+"lat": "37.743224697678", 
+"lng": "-122.385342973411", 
+"id": 385
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "2660 NEWHALL ST", 
+"lat": "37.7272121877323", 
+"lng": "-122.399636251634", 
+"id": 386
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "35 NIBBI CT", 
+"lat": "37.7104517057157", 
+"lng": "-122.396149078986", 
+"id": 387
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "1900 OAKDALE AVE", 
+"lat": "37.7383020347837", 
+"lng": "-122.396036145048", 
+"id": 388
+}, 
+{
+"applicant": "Tacos Rodriguez", 
+"fooditems": "Tacos: burritos: quesadillas: soda & water", 
+"address": "2198 OAKDALE AVE", 
+"lat": "37.740994748821", 
+"lng": "-122.401172335377", 
+"id": 389
+}, 
+{
+"applicant": "Eva's Catering", 
+"fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages", 
+"address": "1100 ORTEGA ST", 
+"lat": "37.7526605342195", 
+"lng": "-122.475473531771", 
+"id": 390
+}, 
+{
+"applicant": "Eva's Catering", 
+"fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages", 
+"address": "1900 19TH AVE", 
+"lat": "37.7521241769265", 
+"lng": "-122.475872322212", 
+"id": 391
+}, 
+{
+"applicant": "Eva's Catering", 
+"fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages", 
+"address": "1199 ORTEGA ST", 
+"lat": "37.7835091359901", 
+"lng": "-122.49007120809", 
+"id": 392
+}, 
+{
+"applicant": "Smokin Warehouse Barbecue", 
+"fooditems": "BBQ Sandwiches: BBQ lunch platters: sides (corn bread: beans: chili: potato salad: coleslaw): water: sodas: energy drinks: housemade iced tea.", 
+"address": "1655 MISSION ST", 
+"lat": "37.771563780123", 
+"lng": "-122.418801505429", 
+"id": 393
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "150 OTIS ST", 
+"lat": "37.7706834088324", 
+"lng": "-122.420879561389", 
+"id": 395
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2940 PACIFIC AVE", 
+"lat": "37.7923854582818", 
+"lng": "-122.443991509427", 
+"id": 396
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "3100 PACIFIC AVE", 
+"lat": "37.7920290718502", 
+"lng": "-122.446576890134", 
+"id": 397
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1101 PALOU AVE", 
+"lat": "37.7286714566484", 
+"lng": "-122.381865088631", 
+"id": 398
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "400 PARNASSUS AVE", 
+"lat": "37.7638640461797", 
+"lng": "-122.458391749834", 
+"id": 399
+}, 
+{
+"applicant": "DO UC US Mobile Catering", 
+"fooditems": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks", 
+"address": "400 PARNASSUS AVE", 
+"lat": "37.7638640461797", 
+"lng": "-122.458391749834", 
+"id": 400
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "360 PENINSULA AVE", 
+"lat": "37.7108412974331", 
+"lng": "-122.399642614953", 
+"id": 401
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "208 PENNSYLVANIA AVE", 
+"lat": "37.7634629737033", 
+"lng": "-122.394012947367", 
+"id": 402
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "898 PENNSYLVANIA AVE", 
+"lat": "37.7555344854083", 
+"lng": "-122.393925277529", 
+"id": 403
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "700 PENNSYLVANIA AVE", 
+"lat": "37.7569236675372", 
+"lng": "-122.393549610526", 
+"id": 404
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "1082 PENNSYLVANIA AVE", 
+"lat": "37.7533608432616", 
+"lng": "-122.393045920788", 
+"id": 405
+}, 
+{
+"applicant": "BHUK Burger", 
+"fooditems": "Pakistani Indian food: and salad: cold and hot drinks: Pakistani soft drinks: Sohan halva: Pakistani Indian desserts: and fruit dessert", 
+"address": "11 PHELAN AVE", 
+"lat": "37.7255770062321", 
+"lng": "-122.454152837658", 
+"id": 406
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "525 PHELPS ST", 
+"lat": "37.7417606634833", 
+"lng": "-122.389097970185", 
+"id": 407
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "555 CALIFORNIA ST", 
+"lat": "37.7922616479464", 
+"lng": "-122.403485955382", 
+"id": 409
+}, 
+{
+"applicant": "Casey's Pizza, LLC", 
+"fooditems": "Artisan Pizzas (Margherita: Yukon Potato: Zoe's Pepperoni: Funghi: Brocolli Rabe: Bacon Kale:  Arugula) and Drinks.", 
+"address": "1 POST ST", 
+"lat": "37.7887787371503", 
+"lng": "-122.402574568401", 
+"id": 410
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "100 POST ST", 
+"lat": "37.789233296668", 
+"lng": "-122.4055790542", 
+"id": 411
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "345 STOCKTON ST", 
+"lat": "37.7889101633426", 
+"lng": "-122.407196034112", 
+"id": 412
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "66 POTRERO AVE", 
+"lat": "37.7685433028161", 
+"lng": "-122.408492892429", 
+"id": 413
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "66 POTRERO AVE", 
+"lat": "37.7685433028161", 
+"lng": "-122.408492892429", 
+"id": 414
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "100 POTRERO AVE", 
+"lat": "37.768075899745", 
+"lng": "-122.408289595277", 
+"id": 415
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "1200 POTRERO AVE", 
+"lat": "37.7525772838787", 
+"lng": "-122.406806417142", 
+"id": 416
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "949 PRESIDIO AVE", 
+"lat": "37.7839220838884", 
+"lng": "-122.446721633162", 
+"id": 417
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1191 QUESADA AVE", 
+"lat": "37.7277445045325", 
+"lng": "-122.382107375232", 
+"id": 418
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "50 QUINT ST", 
+"lat": "37.7464705204604", 
+"lng": "-122.388990808645", 
+"id": 419
+}, 
+{
+"applicant": "Tacos El Primo", 
+"fooditems": "Mexican food: tacos: burritos: tortas: various meat and chicken and fish plate: chile relleno plate: fish plate: bread: flan: rice pudding: bread: fruit juice: vegetable juice: coffee: tea", 
+"address": "1700 EVANS AVE", 
+"lat": "37.7448892999578", 
+"lng": "-122.390971976926", 
+"id": 420
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "220 RANKIN ST", 
+"lat": "37.7464698019281", 
+"lng": "-122.391515238762", 
+"id": 421
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "180 REDWOOD ST", 
+"lat": "37.7808315906918", 
+"lng": "-122.419942864672", 
+"id": 422
+}, 
+{
+"applicant": "Bob Johnson", 
+"fooditems": "Watermelon", 
+"address": "1709 REVERE AVE", 
+"lat": "37.7325595927586", 
+"lng": "-122.392063194959", 
+"id": 423
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "50 RIZAL ST", 
+"lat": "37.7820491081597", 
+"lng": "-122.399576873613", 
+"id": 424
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "1 THE EMBARCADERO", 
+"lat": "37.7946438483861", 
+"lng": "-122.399644298519", 
+"id": 425
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "2380 SAN BRUNO AVE", 
+"lat": "37.7325564882465", 
+"lng": "-122.405854656101", 
+"id": 426
+}, 
+{
+"applicant": "Tacos Rodriguez", 
+"fooditems": "Tacos: burritos: quesadillas: soda & water", 
+"address": "1 SANSOME ST", 
+"lat": "37.7904851598986", 
+"lng": "-122.40094044068", 
+"id": 427
+}, 
+{
+"applicant": "Viet Duong Co., Ltd.", 
+"fooditems": "Vietnamese Sandwiches: Spring Rolls: Bottled Water & Can Soda", 
+"address": "1 BUSH ST", 
+"lat": "37.7909215210394", 
+"lng": "-122.400100423729", 
+"id": 428
+}, 
+{
+"applicant": "Santana ESG, Inc.", 
+"fooditems": "Tacos: Burritos: Tortas: Quesadillas: Mexican Drinks: Aguas Frescas", 
+"address": "1 SANSOME ST", 
+"lat": "37.7904851598986", 
+"lng": "-122.40094044068", 
+"id": 429
+}, 
+{
+"applicant": "Cupkates Bakery, LLC", 
+"fooditems": "Cupcakes", 
+"address": "115 SANSOME ST", 
+"lat": "37.7914265551019", 
+"lng": "-122.401037856678", 
+"id": 430
+}, 
+{
+"applicant": "Cheese Gone Wild", 
+"fooditems": "Grilled Cheese Sandwiches", 
+"address": "233 SANSOME ST", 
+"lat": "37.7926094148876", 
+"lng": "-122.401314905442", 
+"id": 431
+}, 
+{
+"applicant": "Casey's Pizza, LLC", 
+"fooditems": "Artisan Pizzas (Margherita: Yukon Potato: Zoe's Pepperoni: Funghi: Brocolli Rabe: Bacon Kale:  Arugula) and Drinks.", 
+"address": "231 SANSOME ST", 
+"lat": "37.7926094148876", 
+"lng": "-122.401314905442", 
+"id": 432
+}, 
+{
+"applicant": "Celtic Catering", 
+"fooditems": "Eritrean & Irish Fusion Burgers: Irish Stew: Eritrean Stew:  Shepard's Pie: Beverages", 
+"address": "217 SANSOME ST", 
+"lat": "37.792389875752", 
+"lng": "-122.401269695226", 
+"id": 433
+}, 
+{
+"applicant": "JapaCurry", 
+"fooditems": "Katsu Curry: KUROBUTA Sausage Curry: Vegetable Curry: Veggie Croquette Curry: Chicken NANBAN Bento: Nori Bento: water: soda: green tea", 
+"address": "217 SANSOME ST", 
+"lat": "37.792389875752", 
+"lng": "-122.401269695226", 
+"id": 434
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "350 SANSOME ST", 
+"lat": "37.7937828906065", 
+"lng": "-122.401001311983", 
+"id": 435
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2521 SCOTT ST", 
+"lat": "37.7933225227924", 
+"lng": "-122.440119274464", 
+"id": 436
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2750 SCOTT ST", 
+"lat": "37.7953159069725", 
+"lng": "-122.43990791759", 
+"id": 437
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "500 SELBY ST", 
+"lat": "37.7444982270263", 
+"lng": "-122.396955405832", 
+"id": 438
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1207 SHAFTER AVE", 
+"lat": "37.7267082867946", 
+"lng": "-122.383624917191", 
+"id": 439
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "133 SHIPLEY ST", 
+"lat": "37.7807241115497", 
+"lng": "-122.401235392649", 
+"id": 440
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "131 SHOTWELL ST", 
+"lat": "37.7479309499248", 
+"lng": "-122.4151931539", 
+"id": 441
+}, 
+{
+"applicant": "Santana ESG, Inc.", 
+"fooditems": "Tacos: Burritos: Tortas: Quesadillas: Mexican Drinks: Aguas Frescas", 
+"address": "200 SHOTWELL ST", 
+"lat": "37.7647453645151", 
+"lng": "-122.41656213946", 
+"id": 442
+}, 
+{
+"applicant": "Smokin Warehouse Barbecue", 
+"fooditems": "BBQ Sandwiches: BBQ lunch platters: sides (corn bread: beans: chili: potato salad: coleslaw): water: sodas: energy drinks: housemade iced tea.", 
+"address": "1655 MISSION ST", 
+"lat": "37.771563780123", 
+"lng": "-122.418801505429", 
+"id": 443
+}, 
+{
+"applicant": "Tres Agaves Mexican Kitchen & Tequila Lounge LLC. dba Tres Truck", 
+"fooditems": "Tacos: Ceviche: Agua Fresca: Fideos: Tortas: Bacon-wrapped Hot Dogs", 
+"address": "60 SPEAR ST", 
+"lat": "37.7925360021997", 
+"lng": "-122.394593199225", 
+"id": 444
+}, 
+{
+"applicant": "M M Catering", 
+"fooditems": "Cold Truck: sandwiches: corndogs: tacos: yogurt: snacks: candy: hot and cold drinks", 
+"address": "45 SPEAR ST", 
+"lat": "37.793871520918", 
+"lng": "-122.394865238611", 
+"id": 445
+}, 
+{
+"applicant": "Casey's Pizza, LLC", 
+"fooditems": "Artisan Pizzas (Margherita: Yukon Potato: Zoe's Pepperoni: Funghi: Brocolli Rabe: Bacon Kale:  Arugula) and Drinks.", 
+"address": "100 SPEAR ST", 
+"lat": "37.7921505622507", 
+"lng": "-122.39399997405", 
+"id": 446
+}, 
+{
+"applicant": "Sanguchon", 
+"fooditems": "Peruvian Food", 
+"address": "100 SPEAR ST", 
+"lat": "37.7921505622507", 
+"lng": "-122.39399997405", 
+"id": 447
+}, 
+{
+"applicant": "Curbside Coffee", 
+"fooditems": "Coffee: Espresso Drinks: Pastries: Water: Soda: Tea: Pre-Packaged Foods", 
+"address": "124 FOLSOM ST", 
+"lat": "37.7900747911128", 
+"lng": "-122.391392669916", 
+"id": 448
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 3788/Lot002", 
+"lat": "37.7810746918552", 
+"lng": "-122.391705661157", 
+"id": 449
+}, 
+{
+"applicant": "Covered Dish Productions, LLC. dba. The Rib Whip", 
+"fooditems": "St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac & Cheese: Potato Salad: Buttermil Pie: Soda: Water", 
+"address": "75 HOWARD ST", 
+"lat": "37.7915578779245", 
+"lng": "-122.391671499776", 
+"id": 450
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "275 STEUART ST", 
+"lat": "37.7913707554546", 
+"lng": "-122.390312812097", 
+"id": 451
+}, 
+{
+"applicant": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+"fooditems": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.", 
+"address": "800 MARKET ST", 
+"lat": "37.7854697602654", 
+"lng": "-122.406615761063", 
+"id": 452
+}, 
+{
+"applicant": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+"fooditems": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks", 
+"address": "101 STOCKTON ST", 
+"lat": "37.7868561256572", 
+"lng": "-122.406891892987", 
+"id": 453
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "90 TEHAMA ST", 
+"lat": "37.7867446271639", 
+"lng": "-122.397471456317", 
+"id": 455
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "640 TENNESSEE ST", 
+"lat": "37.7635404977264", 
+"lng": "-122.390096643653", 
+"id": 456
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "790 TENNESSEE ST", 
+"lat": "37.7618524113025", 
+"lng": "-122.389932093241", 
+"id": 457
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "815 TENNESSEE ST", 
+"lat": "37.7615022177651", 
+"lng": "-122.389276996071", 
+"id": 458
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "1500 TENNESSEE ST", 
+"lat": "37.752241682288", 
+"lng": "-122.38918854258", 
+"id": 459
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "Assessors Block 8722/Lot005", 
+"lat": "37.7696400460085", 
+"lng": "-122.386236654189", 
+"id": 460
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "Assessors Block 8720/Lot008", 
+"lat": "37.7711580507508", 
+"lng": "-122.386931257552", 
+"id": 461
+}, 
+{
+"applicant": "May Sun Kitchen", 
+"fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages", 
+"address": "640 TEXAS ST", 
+"lat": "37.7579170704923", 
+"lng": "-122.39547585248", 
+"id": 462
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "26 THE EMBARCADERO", 
+"lat": "37.7941916902422", 
+"lng": "-122.393853704244", 
+"id": 463
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "600 TOLAND ST", 
+"lat": "37.7434400558213", 
+"lng": "-122.399932569567", 
+"id": 464
+}, 
+{
+"applicant": "Linda's Catering", 
+"fooditems": "Hot Dogs: Hamburgers: Nachos: Steaks: Pastas: Asian Dishes: Tri-Tip Sandwiches: Sodas & Water", 
+"address": "290 TOWNSEND ST", 
+"lat": "37.7777552303516", 
+"lng": "-122.394807823169", 
+"id": 465
+}, 
+{
+"applicant": "Linda's Catering", 
+"fooditems": "Hot Dogs: Hamburgers: Nachos: Steaks: Pastas: Asian Dishes: Tri-Tip Sandwiches: Sodas & Water", 
+"address": "260 TOWNSEND ST", 
+"lat": "37.7781481412433", 
+"lng": "-122.394440688549", 
+"id": 466
+}, 
+{
+"applicant": "F & C Catering", 
+"fooditems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad", 
+"address": "444 TOWNSEND ST", 
+"lat": "37.7748713300246", 
+"lng": "-122.398531708266", 
+"id": 467
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "516 TOWNSEND ST", 
+"lat": "37.7734452287087", 
+"lng": "-122.400482576536", 
+"id": 468
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "630 TREAT AVE", 
+"lat": "37.7599514432281", 
+"lng": "-122.414049680214", 
+"id": 469
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "1003 TURK ST", 
+"lat": "37.780868450348", 
+"lng": "-122.425467726608", 
+"id": 470
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2 ULLOA ST", 
+"lat": "37.7456366976948", 
+"lng": "-122.454233188647", 
+"id": 472
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2616 UNION ST", 
+"lat": "37.7964800105812", 
+"lng": "-122.442530024714", 
+"id": 473
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "101 UTAH ST", 
+"lat": "37.7678824687677", 
+"lng": "-122.406310585996", 
+"id": 474
+}, 
+{
+"applicant": "La Falafel", 
+"fooditems": "Falafel Sandwiches: Fries: Soda: Iced Tea & Various Drinks.", 
+"address": "337 VALENCIA ST", 
+"lat": "37.7674566528998", 
+"lng": "-122.421788343106", 
+"id": 475
+}, 
+{
+"applicant": "La Falafel", 
+"fooditems": "Falafel Sandwiches: Fries: Soda: Iced Tea & Various Drinks.", 
+"address": "363 VALENCIA ST", 
+"lat": "37.7671264785713", 
+"lng": "-122.421782736129", 
+"id": 476
+}, 
+{
+"applicant": "The Chai Cart", 
+"fooditems": "Hot Indian Chai", 
+"address": "560 VALENCIA ST", 
+"lat": "37.7638580951567", 
+"lng": "-122.422082620983", 
+"id": 477
+}, 
+{
+"applicant": "Cheese Gone Wild", 
+"fooditems": "Grilled Cheese Sandwiches", 
+"address": "1801 VAN NESS AVE", 
+"lat": "37.7923033968441", 
+"lng": "-122.423131922084", 
+"id": 479
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1550 WALLACE AVE", 
+"lat": "37.7271680826139", 
+"lng": "-122.390029148691", 
+"id": 480
+}, 
+{
+"applicant": "Covered Dish Productions, LLC. dba. The Rib Whip", 
+"fooditems": "St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac & Cheese: Potato Salad: Buttermil Pie: Soda: Water", 
+"address": "370 DRUMM ST", 
+"lat": "37.796913726248", 
+"lng": "-122.396650675254", 
+"id": 481
+}, 
+{
+"applicant": "Curry Up Now", 
+"fooditems": "Chicken Tiki Masala Burritos: Paneer Tiki Masala Burritos: Samosas: Mango Lassi", 
+"address": "370 DRUMM ST", 
+"lat": "37.796913726248", 
+"lng": "-122.396650675254", 
+"id": 482
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "3550 WASHINGTON ST", 
+"lat": "37.7896668407335", 
+"lng": "-122.451627836107", 
+"id": 483
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "3839 WASHINGTON ST", 
+"lat": "37.7885836689285", 
+"lng": "-122.456059894356", 
+"id": 484
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "48 WELSH ST", 
+"lat": "37.7797508524", 
+"lng": "-122.397032985151", 
+"id": 486
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "71 WILLIAMS AVE", 
+"lat": "37.7292233514237", 
+"lng": "-122.394613062654", 
+"id": 487
+}, 
+{
+"applicant": "Tacos El Primo", 
+"fooditems": "Mexican food: tacos: burritos: tortas: various meat and chicken and fish plate: chile relleno plate: fish plate: bread: flan: rice pudding: bread: fruit juice: vegetable juice: coffee: tea", 
+"address": "345 WILLIAMS AVE", 
+"lat": "37.7298054944035", 
+"lng": "-122.399247104715", 
+"id": 488
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "166 WISCONSIN ST", 
+"lat": "37.7654338822776", 
+"lng": "-122.400198205284", 
+"id": 489
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "501 YORK ST", 
+"lat": "37.7629143254089", 
+"lng": "-122.408951161528", 
+"id": 490
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "620 YORK ST", 
+"lat": "37.7615718625183", 
+"lng": "-122.409444718948", 
+"id": 491
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "720 YORK ST", 
+"lat": "37.7598258512361", 
+"lng": "-122.409202915073", 
+"id": 492
+}, 
+{
+"applicant": "Singh Brothers Ice Cream", 
+"fooditems": "Ice Cream: Pre-Packaged Chips: Candies: Bottled Water & Canned SODA", 
+"address": "1420 YOSEMITE AVE", 
+"lat": "37.7251817145626", 
+"lng": "-122.388192688434", 
+"id": 493
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "1485 YOSEMITE AVE", 
+"lat": "37.7252957356165", 
+"lng": "-122.389765731246", 
+"id": 494
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "1760 YOSEMITE AVE", 
+"lat": "37.7287554933347", 
+"lng": "-122.394408901491", 
+"id": 495
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "2101 03RD ST", 
+"lat": 37.76305, 
+"lng": -122.3886588, 
+"id": 19
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "3433 03RD ST", 
+"lat": 37.745546, 
+"lng": -122.386581, 
+"id": 32
+}, 
+{
+"applicant": "Bach Catering", 
+"fooditems": "Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins & Various Drinks & Pre-Packaged Snacks.", 
+"address": "5600 03RD ST", 
+"lat": 37.7267045, 
+"lng": -122.3939582, 
+"id": 35
+}, 
+{
+"applicant": "Betty McGee Creole", 
+"fooditems": "Cajun: PoBoy Sandwiches: Salmon: Shrimp: Catfish: Oysters: Sausages: Gumbo: Fries: Salad: Pies: Cookies: Cake: Chips: Beignets: Waffles: Beverages", 
+"address": "1201 04TH ST", 
+"lat": 37.7727213, 
+"lng": -122.3911826, 
+"id": 41
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "500 16TH ST", 
+"lat": 37.7672541, 
+"lng": -122.3903695, 
+"id": 62
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "701 16TH ST", 
+"lat": 37.766661, 
+"lng": -122.3927296, 
+"id": 65
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "3000 23RD ST", 
+"lat": 37.75436, 
+"lng": -122.412306, 
+"id": 80
+}, 
+{
+"applicant": "Quan Catering", 
+"fooditems": "Cold Truck: Soft drinks: cup cakes: potato chips: cookies: gum: sandwiches (hot & cold): peanuts: muffins: coff (hot & cold): water: juice: yoplait: milk: orange juice: sunflower seeds: can foods: burritos: buscuits: chimichangas: rice krispies", 
+"address": "151 EXECUTIVE PARK BLVD", 
+"lat": 37.71279800000001, 
+"lng": -122.393583, 
+"id": 99
+}, 
+{
+"applicant": "San Pancho's Tacos", 
+"fooditems": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks", 
+"address": "491 BAY SHORE BLVD", 
+"lat": 37.74039560000001, 
+"lng": -122.4063619, 
+"id": 111
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "567 BAY ST", 
+"lat": 37.8051791, 
+"lng": -122.415899, 
+"id": 115
+}, 
+{
+"applicant": "VK Industries, Inc.", 
+"fooditems": "Indian Street Food", 
+"address": "400 CALIFORNIA ST", 
+"lat": 37.793293, 
+"lng": -122.4017427, 
+"id": 166
+}, 
+{
+"applicant": "Natan's Catering", 
+"fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks", 
+"address": "Assessors Block 4315/Lot03008", 
+"lat": 37.7749295, 
+"lng": -122.4194155, 
+"id": 171
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "435 CHINA BASIN ST", 
+"lat": 37.771588, 
+"lng": -122.388536, 
+"id": 183
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "435 CHINA BASIN ST", 
+"lat": 37.771588, 
+"lng": -122.388536, 
+"id": 183
+}, 
+{
+"applicant": "Park's Catering", 
+"fooditems": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins", 
+"address": "2020 EVANS AVE", 
+"lat": 37.7473241, 
+"lng": -122.396071, 
+"id": 215
+}, 
+{
+"applicant": "Golden Catering", 
+"fooditems": "Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks", 
+"address": "101 EXECUTIVE PARK BLVD", 
+"lat": 37.7113871, 
+"lng": -122.3936943, 
+"id": 218
+}, 
+{
+"applicant": "Mini Mobile Food Catering", 
+"fooditems": "Cold Truck: Corn Dogs: Noodle Soups: Candy: Pre-packaged Snacks: Sandwiches: Chips: Coffee: Tea: Various Beverages", 
+"address": "401 HARRISON ST", 
+"lat": 37.7860251, 
+"lng": -122.3922264, 
+"id": 251
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "2150 HARRISON ST", 
+"lat": 37.7628795, 
+"lng": -122.4129166, 
+"id": 260
+}, 
+{
+"applicant": "El Tonayense #60", 
+"fooditems": "Tacos: Burritos: Tortas: Quesadillas: Drinks", 
+"address": "2355 FOLSOM ST", 
+"lat": 37.7595332, 
+"lng": -122.4146285, 
+"id": 262
+}, 
+{
+"applicant": "Santana ESG, Inc.", 
+"fooditems": "Tacos: Burritos: Tortas: Quesadillas: Mexican Drinks: Aguas Frescas", 
+"address": "2598 HARRISON ST", 
+"lat": 37.7560218, 
+"lng": -122.412464, 
+"id": 263
+}, 
+{
+"applicant": "John's Catering #5", 
+"fooditems": "Cold Truck: Soda:Chips:Candy: Cold/Hot Sandwiches: Donuts.  (Pitco Wholesale)", 
+"address": "2200 HAYES ST", 
+"lat": 37.7731284, 
+"lng": -122.4526425, 
+"id": 267
+}, 
+{
+"applicant": "Covered Dish Productions, LLC. dba. The Rib Whip", 
+"fooditems": "St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac & Cheese: Potato Salad: Buttermil Pie: Soda: Water", 
+"address": "500 HOWARD ST", 
+"lat": 37.7884439, 
+"lng": -122.3967097, 
+"id": 274
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "409 ILLINOIS ST", 
+"lat": 37.7666233, 
+"lng": -122.3879594, 
+"id": 278
+}, 
+{
+"applicant": "Mike's Catering", 
+"fooditems": "Cold Truck: packaged sandwiches: snacks: candy: hot and cold drinks", 
+"address": "409 ILLINOIS ST", 
+"lat": 37.7666233, 
+"lng": -122.3879594, 
+"id": 278
+}, 
+{
+"applicant": "Steve's Mobile Deli", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Burgers: Hot Dogs: Muffin Sandwiches: Enchiladas: Bagels: Burritos: Salads: Snacks: Beverages", 
+"address": "145 KING ST", 
+"lat": 37.7781091, 
+"lng": -122.391557, 
+"id": 308
+}, 
+{
+"applicant": "San Pancho's Tacos", 
+"fooditems": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks", 
+"address": "491 BAY SHORE BLVD", 
+"lat": 37.74039560000001, 
+"lng": -122.4063619, 
+"id": 111
+}, 
+{
+"applicant": "Sanguchon", 
+"fooditems": "Peruvian Food", 
+"address": "1601 MARIPOSA ST", 
+"lat": 37.7635649, 
+"lng": -122.3999154, 
+"id": 327
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "900 MINNESOTA ST", 
+"lat": 37.7597545, 
+"lng": -122.3904879, 
+"id": 349
+}, 
+{
+"applicant": "May Catering", 
+"fooditems": "Cold Truck: Sandwiches: fruit: snacks: candy: hot and cold drinks", 
+"address": "900 MINNESOTA ST", 
+"lat": 37.7597545, 
+"lng": -122.3904879, 
+"id": 349
+}, 
+{
+"applicant": "Two G's Catering", 
+"fooditems": "Cold Truck: Hot & Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls", 
+"address": "555 MISSION ROCK ST", 
+"lat": 37.7726935, 
+"lng": -122.3909032, 
+"id": 356
+}, 
+{
+"applicant": "Covered Dish Productions, LLC. dba. The Rib Whip", 
+"fooditems": "St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac & Cheese: Potato Salad: Buttermil Pie: Soda: Water", 
+"address": "500 HOWARD ST", 
+"lat": 37.7884439, 
+"lng": -122.3967097, 
+"id": 274
+}, 
+{
+"applicant": "Daniel's Catering", 
+"fooditems": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages", 
+"address": "170 OTIS ST", 
+"lat": 37.7707717, 
+"lng": -122.4208984, 
+"id": 394
+}, 
+{
+"applicant": "Senor Sisig", 
+"fooditems": "Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.", 
+"address": "300 PINE ST", 
+"lat": 37.792147, 
+"lng": -122.4009923, 
+"id": 408
+}, 
+{
+"applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+"fooditems": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.", 
+"address": "567 BAY ST", 
+"lat": 37.8051791, 
+"lng": -122.415899, 
+"id": 115
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "1345 TURK ST", 
+"lat": 37.780318, 
+"lng": -122.431231, 
+"id": 471
+}, 
+{
+"applicant": "D & T Catering", 
+"fooditems": "Cold Truck: Pre-packaged sandwiches: Chicken Bake: Canned Soup: Chili Dog: Corn Dog: Cup of Noodles: Egg Muffins: Hamburgers: Cheeseburgers: Hot Dog: Hot sandwiches: quesadillas: Beverages: Flan: Fruits: Yogurt: Candy: Cookies: Chips: Donuts: Snacks", 
+"address": "2201 VALLEJO ST", 
+"lat": 37.7952999, 
+"lng": -122.4338575, 
+"id": 478
+}, 
+{
+"applicant": "Munch A Bunch", 
+"fooditems": "Cold Truck: packaged sandwiches: pitas: breakfast: cold and hot drinks: snacks", 
+"address": "2200 WEBSTER ST", 
+"lat": 37.7909516, 
+"lng": -122.4325852, 
+"id": 485
+}
+]
